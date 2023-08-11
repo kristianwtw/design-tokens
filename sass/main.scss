@@ -1,0 +1,8 @@
+@import "../build/scss/variables";
+
+.card{
+  background-color: $base-base-gray-light;
+  border: 1px solid $base-base-gray-dark;
+  width: 200px;
+  height: 200px;
+}
