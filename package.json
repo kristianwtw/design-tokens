@@ -1,0 +1,22 @@
+{
+  "name": "plexus-design-tokens",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "style-dictionary build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristianwtw/plexus-design-tokens.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristianwtw/plexus-design-tokens/issues"
+  },
+  "homepage": "https://github.com/kristianwtw/plexus-design-tokens#readme",
+  "devDependencies": {
+    "style-dictionary": "^3.8.0"
+  }
+}
