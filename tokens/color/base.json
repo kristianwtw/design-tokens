@@ -2,7 +2,7 @@
   "global": {},
   "Base": {
     "Base Gray Light": {
-      "value": "#cccc00",
+      "value": "#00cccc",
       "type": "color"
     },
     "Base Gray Medium": {
