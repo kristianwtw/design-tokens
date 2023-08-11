@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/kristianwtw/plexus-design-tokens#readme",
   "devDependencies": {
+    "sass": "^1.65.1",
     "style-dictionary": "^3.8.0"
   }
 }
