@@ -1,0 +1,28 @@
+{
+  "global": {},
+  "Base": {
+    "Base Gray Light": {
+      "value": "#cc00cc",
+      "type": "color"
+    },
+    "Base Gray Medium": {
+      "value": "#999999",
+      "type": "color"
+    },
+    "Base Gray Dark": {
+      "value": "#111111",
+      "type": "color"
+    },
+    "Button Primary": {
+      "value": "#40b5ff",
+      "type": "color"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global",
+      "Base"
+    ]
+  }
+}
