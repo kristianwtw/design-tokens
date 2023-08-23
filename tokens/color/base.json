@@ -1,28 +1,1821 @@
 {
-  "global": {},
-  "Base": {
-    "Base Gray Light": {
-      "value": "#cc00cc",
-      "type": "color"
+  "wtw": {
+    "wtw-color": {
+      "customer": {
+        "skyss-red": {
+          "50": {
+            "value": "#FDEDEC",
+            "type": "color"
+          },
+          "150": {
+            "value": "#F9C9C5",
+            "type": "color"
+          },
+          "250": {
+            "value": "#F6A39B",
+            "type": "color"
+          },
+          "350": {
+            "value": "#F4796A",
+            "type": "color"
+          },
+          "450": {
+            "value": "#E84F30",
+            "type": "color"
+          },
+          "500": {
+            "value": "#CF462A",
+            "type": "color"
+          },
+          "550": {
+            "value": "#BD3F25",
+            "type": "color"
+          },
+          "650": {
+            "value": "#94301C",
+            "type": "color"
+          },
+          "750": {
+            "value": "#6E2112",
+            "type": "color"
+          },
+          "850": {
+            "value": "#481409",
+            "type": "color"
+          },
+          "900": {
+            "value": "#380C05",
+            "type": "color"
+          }
+        }
+      },
+      "default": {
+        "neutral": {
+          "white": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "gray-25": {
+            "value": "#F8F8F8",
+            "type": "color"
+          },
+          "gray-50": {
+            "value": "#F0F0F0",
+            "type": "color"
+          },
+          "gray-150": {
+            "value": "#D4D4D4",
+            "type": "color"
+          },
+          "gray-250": {
+            "value": "#B9B9B9",
+            "type": "color"
+          },
+          "gray-350": {
+            "value": "#9E9E9E",
+            "type": "color"
+          },
+          "gray-450": {
+            "value": "#848484",
+            "type": "color"
+          },
+          "gray-500": {
+            "value": "#757575",
+            "type": "color"
+          },
+          "gray-550": {
+            "value": "#6A6A6A",
+            "type": "color"
+          },
+          "gray-650": {
+            "value": "#525252",
+            "type": "color"
+          },
+          "gray-750": {
+            "value": "#3B3B3B",
+            "type": "color"
+          },
+          "gray-850": {
+            "value": "#262626",
+            "type": "color"
+          },
+          "gray-900": {
+            "value": "#1B1B1B",
+            "type": "color"
+          },
+          "gray-980": {
+            "value": "#070707",
+            "type": "color"
+          }
+        },
+        "blue": {
+          "50": {
+            "value": "#E6F1FB",
+            "type": "color"
+          },
+          "150": {
+            "value": "#B5D8F6",
+            "type": "color"
+          },
+          "250": {
+            "value": "#7BC0F4",
+            "type": "color"
+          },
+          "350": {
+            "value": "#41A5E5",
+            "type": "color"
+          },
+          "450": {
+            "value": "#118CC9",
+            "type": "color"
+          },
+          "500": {
+            "value": "#007CB4",
+            "type": "color"
+          },
+          "550": {
+            "value": "#0C71A4",
+            "type": "color"
+          },
+          "650": {
+            "value": "#0D5883",
+            "type": "color"
+          },
+          "750": {
+            "value": "#084061",
+            "type": "color"
+          },
+          "850": {
+            "value": "#03283F",
+            "type": "color"
+          },
+          "900": {
+            "value": "#021E31",
+            "type": "color"
+          }
+        },
+        "green": {
+          "50": {
+            "value": "#D9F8E2",
+            "type": "color"
+          },
+          "150": {
+            "value": "#98E6B1",
+            "type": "color"
+          },
+          "250": {
+            "value": "#63CC8F",
+            "type": "color"
+          },
+          "350": {
+            "value": "#3EB174",
+            "type": "color"
+          },
+          "450": {
+            "value": "#2D9461",
+            "type": "color"
+          },
+          "500": {
+            "value": "#258658",
+            "type": "color"
+          },
+          "550": {
+            "value": "#24794F",
+            "type": "color"
+          },
+          "650": {
+            "value": "#1B5F3D",
+            "type": "color"
+          },
+          "750": {
+            "value": "#11442C",
+            "type": "color"
+          },
+          "850": {
+            "value": "#082B19",
+            "type": "color"
+          },
+          "900": {
+            "value": "#052112",
+            "type": "color"
+          }
+        },
+        "yellow": {
+          "50": {
+            "value": "#FDEDDE",
+            "type": "color"
+          },
+          "150": {
+            "value": "#FBCD9A",
+            "type": "color"
+          },
+          "250": {
+            "value": "#F0AD3C",
+            "type": "color"
+          },
+          "350": {
+            "value": "#CF921D",
+            "type": "color"
+          },
+          "450": {
+            "value": "#AF7A0D",
+            "type": "color"
+          },
+          "500": {
+            "value": "#9C6C00",
+            "type": "color"
+          },
+          "550": {
+            "value": "#8E6200",
+            "type": "color"
+          },
+          "650": {
+            "value": "#6F4C04",
+            "type": "color"
+          },
+          "750": {
+            "value": "#523702",
+            "type": "color"
+          },
+          "850": {
+            "value": "#342202",
+            "type": "color"
+          },
+          "900": {
+            "value": "#281901",
+            "type": "color"
+          }
+        },
+        "red": {
+          "50": {
+            "value": "#FEECE8",
+            "type": "color"
+          },
+          "150": {
+            "value": "#FDC9BC",
+            "type": "color"
+          },
+          "250": {
+            "value": "#FD9F90",
+            "type": "color"
+          },
+          "350": {
+            "value": "#FE7265",
+            "type": "color"
+          },
+          "450": {
+            "value": "#FF2A1E",
+            "type": "color"
+          },
+          "500": {
+            "value": "#EB0000",
+            "type": "color"
+          },
+          "550": {
+            "value": "#D6040F",
+            "type": "color"
+          },
+          "650": {
+            "value": "#A90413",
+            "type": "color"
+          },
+          "750": {
+            "value": "#7C0313",
+            "type": "color"
+          },
+          "850": {
+            "value": "#52020F",
+            "type": "color"
+          },
+          "900": {
+            "value": "#3F010C",
+            "type": "color"
+          }
+        }
+      }
     },
-    "Base Gray Medium": {
-      "value": "#999999",
-      "type": "color"
+    "wtw-border-radius": {
+      "sharp": {
+        "value": "0",
+        "type": "borderRadius"
+      },
+      "xs": {
+        "value": "2",
+        "type": "borderRadius"
+      },
+      "sm": {
+        "value": "4",
+        "type": "borderRadius"
+      },
+      "md": {
+        "value": "8",
+        "type": "borderRadius"
+      },
+      "lg": {
+        "value": "16",
+        "type": "borderRadius"
+      },
+      "xl": {
+        "value": "32",
+        "type": "borderRadius"
+      },
+      "pill": {
+        "value": "99999",
+        "type": "borderRadius"
+      }
     },
-    "Base Gray Dark": {
-      "value": "#111111",
-      "type": "color"
+    "wtw-border-width": {
+      "sm": {
+        "value": "1",
+        "type": "borderWidth"
+      },
+      "md": {
+        "value": "2",
+        "type": "borderWidth"
+      },
+      "lg": {
+        "value": "4",
+        "type": "borderWidth"
+      },
+      "xl": {
+        "value": "8",
+        "type": "borderWidth"
+      }
     },
-    "Button Primary": {
-      "value": "#40b5ff",
-      "type": "color"
+    "wtw-spacing": {
+      "10": {
+        "value": "64",
+        "type": "spacing"
+      },
+      "11": {
+        "value": "80",
+        "type": "spacing"
+      },
+      "12": {
+        "value": "96",
+        "type": "spacing"
+      },
+      "13": {
+        "value": "160",
+        "type": "spacing"
+      },
+      "01": {
+        "value": "2",
+        "type": "spacing"
+      },
+      "02": {
+        "value": "4",
+        "type": "spacing"
+      },
+      "03": {
+        "value": "8",
+        "type": "spacing"
+      },
+      "04": {
+        "value": "12",
+        "type": "spacing"
+      },
+      "05": {
+        "value": "16",
+        "type": "spacing"
+      },
+      "06": {
+        "value": "24",
+        "type": "spacing"
+      },
+      "07": {
+        "value": "32",
+        "type": "spacing"
+      },
+      "08": {
+        "value": "40",
+        "type": "spacing"
+      },
+      "09": {
+        "value": "48",
+        "type": "spacing"
+      }
+    },
+    "wtw-font-family-sans": {
+      "value": "Source Sans 3",
+      "type": "fontFamilies",
+      "description": "https://fonts.google.com/specimen/Source+Sans+3"
+    },
+    "wtw-font-family-serif": {
+      "value": "Source Serif 4",
+      "type": "fontFamilies",
+      "description": "https://fonts.google.com/specimen/Source+Serif+4"
+    },
+    "wtw-font-family-code": {
+      "value": "Source Code Pro",
+      "type": "fontFamilies",
+      "description": "https://fonts.google.com/specimen/Source+Code+Pro"
+    },
+    "wtw-font-size-12": {
+      "value": "12",
+      "type": "fontSizes"
+    },
+    "wtw-font-size-14": {
+      "value": "14",
+      "type": "fontSizes"
+    },
+    "wtw-font-size-16": {
+      "value": "16",
+      "type": "fontSizes"
+    },
+    "wtw-font-size-18": {
+      "value": "18",
+      "type": "fontSizes"
+    },
+    "wtw-font-size-20": {
+      "value": "20",
+      "type": "fontSizes"
+    },
+    "wtw-font-size-24": {
+      "value": "24",
+      "type": "fontSizes"
+    },
+    "wtw-font-size-28": {
+      "value": "28",
+      "type": "fontSizes"
+    },
+    "wtw-font-size-32": {
+      "value": "32",
+      "type": "fontSizes"
+    },
+    "wtw-font-size-36": {
+      "value": "36",
+      "type": "fontSizes"
+    },
+    "wtw-font-size-42": {
+      "value": "42",
+      "type": "fontSizes"
+    },
+    "wtw-font-size-48": {
+      "value": "48",
+      "type": "fontSizes"
+    },
+    "wtw-font-size-54": {
+      "value": "54",
+      "type": "fontSizes"
+    },
+    "wtw-font-size-60": {
+      "value": "60",
+      "type": "fontSizes"
+    },
+    "wtw-font-size-68": {
+      "value": "68",
+      "type": "fontSizes"
+    },
+    "wtw-font-size-76": {
+      "value": "76",
+      "type": "fontSizes"
+    },
+    "wtw-font-size-84": {
+      "value": "84",
+      "type": "fontSizes"
+    },
+    "wtw-font-size-92": {
+      "value": "92",
+      "type": "fontSizes"
+    },
+    "wtw-font-size-122": {
+      "value": "122",
+      "type": "fontSizes"
+    },
+    "wtw-font-size-156": {
+      "value": "156",
+      "type": "fontSizes"
+    },
+    "wtw-font-weight-300": {
+      "value": "300",
+      "type": "fontWeights",
+      "description": "Light"
+    },
+    "wtw-font-weight-400": {
+      "value": "400",
+      "type": "fontWeights",
+      "description": "Regular"
+    },
+    "wtw-font-weight-600": {
+      "value": "600",
+      "type": "fontWeights",
+      "description": "Semibold"
+    },
+    "wtw-font-letterspacing-looser": {
+      "value": "0.32",
+      "type": "letterSpacing"
+    },
+    "wtw-font-letterspacing-loose": {
+      "value": "0.16",
+      "type": "letterSpacing"
+    },
+    "wtw-font-letterspacing-normal": {
+      "value": "0",
+      "type": "letterSpacing"
+    },
+    "wtw-font-letterspacing-tight": {
+      "value": "-0.64",
+      "type": "letterSpacing"
+    },
+    "wtw-font-letterspacing-tighter": {
+      "value": "-0.96",
+      "type": "letterSpacing"
+    },
+    "wtw-font-lineheight-16": {
+      "value": "16",
+      "type": "lineHeights",
+      "description": "For font size 12"
+    },
+    "wtw-font-lineheight-18": {
+      "value": "18",
+      "type": "lineHeights",
+      "description": "For font size 14"
+    },
+    "wtw-font-lineheight-20": {
+      "value": "20",
+      "type": "lineHeights",
+      "description": "For font size 14"
+    },
+    "wtw-font-lineheight-22": {
+      "value": "22",
+      "type": "lineHeights",
+      "description": "For font size 16"
+    },
+    "wtw-font-lineheight-24": {
+      "value": "24",
+      "type": "lineHeights",
+      "description": "For font size 16"
+    },
+    "wtw-font-lineheight-26": {
+      "value": "26",
+      "type": "lineHeights",
+      "description": "For font size 20"
+    },
+    "wtw-font-lineheight-28": {
+      "value": "28",
+      "type": "lineHeights",
+      "description": "For font size 20"
+    },
+    "wtw-font-lineheight-30": {
+      "value": "30",
+      "type": "lineHeights",
+      "description": "For font size 24"
+    },
+    "wtw-font-lineheight-36": {
+      "value": "36",
+      "type": "lineHeights",
+      "description": "For font size 28"
+    },
+    "wtw-font-lineheight-40": {
+      "value": "40",
+      "type": "lineHeights",
+      "description": "For font size 32"
+    },
+    "wtw-font-lineheight-44": {
+      "value": "44",
+      "type": "lineHeights",
+      "description": "For font size 36"
+    },
+    "wtw-font-lineheight-50": {
+      "value": "50",
+      "type": "lineHeights",
+      "description": "For font size 42"
+    },
+    "wtw-font-lineheight-56": {
+      "value": "56",
+      "type": "lineHeights",
+      "description": "For font size 48"
+    },
+    "wtw-font-lineheight-64": {
+      "value": "64",
+      "type": "lineHeights",
+      "description": "For font size 54"
+    },
+    "wtw-font-lineheight-70": {
+      "value": "70",
+      "type": "lineHeights",
+      "description": "For font size 60"
+    },
+    "wtw-font-lineheight-78": {
+      "value": "78",
+      "type": "lineHeights",
+      "description": "For font size 68"
+    },
+    "wtw-font-lineheight-86": {
+      "value": "86",
+      "type": "lineHeights",
+      "description": "For font size 76"
+    },
+    "wtw-font-lineheight-94": {
+      "value": "94",
+      "type": "lineHeights",
+      "description": "For font size 84"
+    },
+    "wtw-font-lineheight-102": {
+      "value": "102",
+      "type": "lineHeights",
+      "description": "For font size 92"
+    },
+    "wtw-font-lineheight-130": {
+      "value": "130",
+      "type": "lineHeights",
+      "description": "For font size 122"
+    },
+    "wtw-font-lineheight-164": {
+      "value": "164",
+      "type": "lineHeights",
+      "description": "For font size 156"
+    },
+    "wtw-font-body": {
+      "compact-01": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-400}",
+          "lineHeight": "{wtw-font-lineheight-18}",
+          "fontSize": "{wtw-font-size-14}",
+          "letterSpacing": "{wtw-font-letterspacing-loose}"
+        },
+        "type": "typography"
+      },
+      "compact-02": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-400}",
+          "lineHeight": "{wtw-font-lineheight-22}",
+          "fontSize": "{wtw-font-size-16}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography"
+      },
+      "01": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-400}",
+          "lineHeight": "{wtw-font-lineheight-20}",
+          "fontSize": "{wtw-font-size-14}",
+          "letterSpacing": "{wtw-font-letterspacing-loose}"
+        },
+        "type": "typography"
+      },
+      "02": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-400}",
+          "lineHeight": "{wtw-font-lineheight-24}",
+          "fontSize": "{wtw-font-size-16}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography"
+      }
+    },
+    "wtw-font-utility": {
+      "code-01": {
+        "value": {
+          "fontFamily": "{wtw-font-family-code}",
+          "fontWeight": "{wtw-font-weight-400}",
+          "lineHeight": "{wtw-font-lineheight-16}",
+          "fontSize": "{wtw-font-size-12}",
+          "letterSpacing": "{wtw-font-letterspacing-looser}"
+        },
+        "type": "typography"
+      },
+      "code-02": {
+        "value": {
+          "fontFamily": "{wtw-font-family-code}",
+          "fontWeight": "{wtw-font-weight-400}",
+          "lineHeight": "{wtw-font-lineheight-20}",
+          "fontSize": "{wtw-font-size-14}",
+          "letterSpacing": "{wtw-font-letterspacing-looser}"
+        },
+        "type": "typography"
+      },
+      "label-01": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-400}",
+          "fontSize": "{wtw-font-size-12}",
+          "lineHeight": "{wtw-font-lineheight-16}",
+          "letterSpacing": "{wtw-font-letterspacing-looser}"
+        },
+        "type": "typography"
+      },
+      "label-02": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-400}",
+          "fontSize": "{wtw-font-size-14}",
+          "lineHeight": "{wtw-font-lineheight-18}",
+          "letterSpacing": "{wtw-font-letterspacing-loose}"
+        },
+        "type": "typography"
+      },
+      "helper-text-01": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-400}",
+          "fontSize": "{wtw-font-size-12}",
+          "lineHeight": "{wtw-font-lineheight-16}",
+          "letterSpacing": "{wtw-font-letterspacing-looser}"
+        },
+        "type": "typography"
+      },
+      "helper-text-02": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-400}",
+          "fontSize": "{wtw-font-size-14}",
+          "lineHeight": "{wtw-font-lineheight-18}",
+          "letterSpacing": "{wtw-font-letterspacing-loose}"
+        },
+        "type": "typography"
+      },
+      "legal-01": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-400}",
+          "fontSize": "{wtw-font-size-12}",
+          "lineHeight": "{wtw-font-lineheight-16}",
+          "letterSpacing": "{wtw-font-letterspacing-looser}"
+        },
+        "type": "typography"
+      },
+      "legal-02": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-400}",
+          "fontSize": "{wtw-font-size-14}",
+          "lineHeight": "{wtw-font-lineheight-18}",
+          "letterSpacing": "{wtw-font-letterspacing-loose}"
+        },
+        "type": "typography"
+      }
+    },
+    "wtw-font-heading": {
+      "compact-01": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-600}",
+          "fontSize": "{wtw-font-size-14}",
+          "lineHeight": "{wtw-font-lineheight-18}",
+          "letterSpacing": "{wtw-font-letterspacing-loose}"
+        },
+        "type": "typography",
+        "description": "This is for component and layout headings. It pairs with $body-compact-01."
+      },
+      "compact-02": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-600}",
+          "fontSize": "{wtw-font-size-16}",
+          "lineHeight": "{wtw-font-lineheight-22}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for smaller layout headings. It pairs with $body-compact-02."
+      },
+      "01": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-600}",
+          "lineHeight": "{wtw-font-lineheight-20}",
+          "fontSize": "{wtw-font-size-14}",
+          "letterSpacing": "{wtw-font-letterspacing-loose}"
+        },
+        "type": "typography",
+        "description": "This is for component and layout headings. It pairs with $body-01."
+      },
+      "02": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-600}",
+          "lineHeight": "{wtw-font-lineheight-24}",
+          "fontSize": "{wtw-font-size-16}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for smaller layout headings. It pairs with $body-02."
+      },
+      "03": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-400}",
+          "lineHeight": "{wtw-font-lineheight-28}",
+          "fontSize": "{wtw-font-size-20}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for component and layout headings."
+      },
+      "04": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-400}",
+          "lineHeight": "{wtw-font-lineheight-36}",
+          "fontSize": "{wtw-font-size-28}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "05": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-400}",
+          "lineHeight": "{wtw-font-lineheight-40}",
+          "fontSize": "{wtw-font-size-32}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "06": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-300}",
+          "lineHeight": "{wtw-font-lineheight-50}",
+          "fontSize": "{wtw-font-size-42}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "07": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-300}",
+          "lineHeight": "{wtw-font-lineheight-64}",
+          "fontSize": "{wtw-font-size-54}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      }
+    },
+    "wtw-font-fluid-sm": {
+      "heading-03": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-400}",
+          "fontSize": "{wtw-font-size-20}",
+          "lineHeight": "{wtw-font-lineheight-28}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for component and layout headings."
+      },
+      "heading-04": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-400}",
+          "fontSize": "{wtw-font-size-28}",
+          "lineHeight": "{wtw-font-lineheight-36}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "heading-05": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-400}",
+          "fontSize": "{wtw-font-size-32}",
+          "lineHeight": "{wtw-font-lineheight-40}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "heading-06": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-600}",
+          "fontSize": "{wtw-font-size-32}",
+          "lineHeight": "{wtw-font-lineheight-40}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "paragraph-01": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-300}",
+          "fontSize": "{wtw-font-size-24}",
+          "lineHeight": "{wtw-font-lineheight-30}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for larger paragraphs of type that are usually three or more lines in length."
+      },
+      "quotation-01": {
+        "value": {
+          "fontFamily": "{wtw-font-family-serif}",
+          "fontWeight": "{wtw-font-weight-400}",
+          "fontSize": "{wtw-font-size-20}",
+          "lineHeight": "{wtw-font-lineheight-26}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "“Quote.”"
+      },
+      "quotation-02": {
+        "value": {
+          "fontFamily": "{wtw-font-family-serif}",
+          "fontWeight": "{wtw-font-weight-300}",
+          "fontSize": "{wtw-font-size-32}",
+          "lineHeight": "{wtw-font-lineheight-40}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "“Quote.”"
+      },
+      "display-01": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-300}",
+          "fontSize": "{wtw-font-size-42}",
+          "lineHeight": "{wtw-font-lineheight-50}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      },
+      "display-02": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-600}",
+          "fontSize": "{wtw-font-size-42}",
+          "lineHeight": "{wtw-font-lineheight-50}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      },
+      "display-03": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-300}",
+          "fontSize": "{wtw-font-size-42}",
+          "lineHeight": "{wtw-font-lineheight-50}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      },
+      "display-04": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-300}",
+          "fontSize": "{wtw-font-size-42}",
+          "lineHeight": "{wtw-font-lineheight-50}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      }
+    },
+    "wtw-font-fluid-md": {
+      "heading-03": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-400}",
+          "fontSize": "{wtw-font-size-20}",
+          "lineHeight": "{wtw-font-lineheight-28}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for component and layout headings."
+      },
+      "heading-04": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-400}",
+          "fontSize": "{wtw-font-size-28}",
+          "lineHeight": "{wtw-font-lineheight-36}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "heading-05": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-300}",
+          "fontSize": "{wtw-font-size-36}",
+          "lineHeight": "{wtw-font-lineheight-44}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "heading-06": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-600}",
+          "fontSize": "{wtw-font-size-36}",
+          "lineHeight": "{wtw-font-lineheight-44}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "paragraph-01": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-300}",
+          "fontSize": "{wtw-font-size-24}",
+          "lineHeight": "{wtw-font-lineheight-30}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for larger paragraphs of type that are usually three or more lines in length."
+      },
+      "quotation-01": {
+        "value": {
+          "fontFamily": "{wtw-font-family-serif}",
+          "fontWeight": "{wtw-font-weight-400}",
+          "fontSize": "{wtw-font-size-20}",
+          "lineHeight": "{wtw-font-lineheight-26}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "“Quote.”"
+      },
+      "quotation-02": {
+        "value": {
+          "fontFamily": "{wtw-font-family-serif}",
+          "fontWeight": "{wtw-font-weight-300}",
+          "fontSize": "{wtw-font-size-36}",
+          "lineHeight": "{wtw-font-lineheight-44}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "“Quote.”"
+      },
+      "display-01": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-300}",
+          "fontSize": "{wtw-font-size-42}",
+          "lineHeight": "{wtw-font-lineheight-50}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      },
+      "display-02": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-600}",
+          "fontSize": "{wtw-font-size-42}",
+          "lineHeight": "{wtw-font-lineheight-50}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      },
+      "display-03": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-300}",
+          "fontSize": "{wtw-font-size-54}",
+          "lineHeight": "{wtw-font-lineheight-64}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      },
+      "display-04": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-300}",
+          "fontSize": "{wtw-font-size-68}",
+          "lineHeight": "{wtw-font-lineheight-78}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      }
+    },
+    "wtw-font-fluid-lg": {
+      "heading-03": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-400}",
+          "fontSize": "{wtw-font-size-20}",
+          "lineHeight": "{wtw-font-lineheight-28}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for component and layout headings."
+      },
+      "heading-04": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-400}",
+          "fontSize": "{wtw-font-size-28}",
+          "lineHeight": "{wtw-font-lineheight-36}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "heading-05": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-300}",
+          "fontSize": "{wtw-font-size-42}",
+          "lineHeight": "{wtw-font-lineheight-50}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "heading-06": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-600}",
+          "fontSize": "{wtw-font-size-42}",
+          "lineHeight": "{wtw-font-lineheight-50}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "paragraph-01": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-300}",
+          "fontSize": "{wtw-font-size-28}",
+          "lineHeight": "{wtw-font-lineheight-36}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for larger paragraphs of type that are usually three or more lines in length."
+      },
+      "quotation-01": {
+        "value": {
+          "fontFamily": "{wtw-font-family-serif}",
+          "fontWeight": "{wtw-font-weight-400}",
+          "fontSize": "{wtw-font-size-24}",
+          "lineHeight": "{wtw-font-lineheight-30}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "“Quote.”"
+      },
+      "quotation-02": {
+        "value": {
+          "fontFamily": "{wtw-font-family-serif}",
+          "fontWeight": "{wtw-font-weight-300}",
+          "fontSize": "{wtw-font-size-42}",
+          "lineHeight": "{wtw-font-lineheight-50}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "“Quote.”"
+      },
+      "display-01": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-300}",
+          "fontSize": "{wtw-font-size-54}",
+          "lineHeight": "{wtw-font-lineheight-64}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      },
+      "display-02": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-600}",
+          "fontSize": "{wtw-font-size-54}",
+          "lineHeight": "{wtw-font-lineheight-64}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      },
+      "display-03": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-300}",
+          "fontSize": "{wtw-font-size-60}",
+          "lineHeight": "{wtw-font-lineheight-70}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      },
+      "display-04": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-300}",
+          "fontSize": "{wtw-font-size-92}",
+          "lineHeight": "{wtw-font-lineheight-102}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      }
+    },
+    "wtw-font-fluid-xl": {
+      "heading-03": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-400}",
+          "fontSize": "{wtw-font-size-20}",
+          "lineHeight": "{wtw-font-lineheight-28}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for component and layout headings."
+      },
+      "heading-04": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-400}",
+          "fontSize": "{wtw-font-size-32}",
+          "lineHeight": "{wtw-font-lineheight-40}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "heading-05": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-300}",
+          "fontSize": "{wtw-font-size-48}",
+          "lineHeight": "{wtw-font-lineheight-56}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "heading-06": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-600}",
+          "fontSize": "{wtw-font-size-48}",
+          "lineHeight": "{wtw-font-lineheight-56}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "paragraph-01": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-300}",
+          "fontSize": "{wtw-font-size-28}",
+          "lineHeight": "{wtw-font-lineheight-36}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for larger paragraphs of type that are usually three or more lines in length."
+      },
+      "quotation-01": {
+        "value": {
+          "fontFamily": "{wtw-font-family-serif}",
+          "fontWeight": "{wtw-font-weight-300}",
+          "fontSize": "{wtw-font-size-28}",
+          "lineHeight": "{wtw-font-lineheight-36}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "“Quote.”"
+      },
+      "quotation-02": {
+        "value": {
+          "fontFamily": "{wtw-font-family-serif}",
+          "fontWeight": "{wtw-font-weight-300}",
+          "fontSize": "{wtw-font-size-48}",
+          "lineHeight": "{wtw-font-lineheight-56}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "“Quote.”"
+      },
+      "display-01": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-300}",
+          "fontSize": "{wtw-font-size-60}",
+          "lineHeight": "{wtw-font-lineheight-70}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      },
+      "display-02": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-600}",
+          "fontSize": "{wtw-font-size-60}",
+          "lineHeight": "{wtw-font-lineheight-70}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      },
+      "display-03": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-300}",
+          "fontSize": "{wtw-font-size-76}",
+          "lineHeight": "{wtw-font-lineheight-86}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      },
+      "display-04": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-300}",
+          "fontSize": "{wtw-font-size-122}",
+          "lineHeight": "{wtw-font-lineheight-130}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      }
+    },
+    "wtw-font-fluid-max": {
+      "heading-03": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-400}",
+          "fontSize": "{wtw-font-size-24}",
+          "lineHeight": "{wtw-font-lineheight-28}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for component and layout headings."
+      },
+      "heading-04": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-400}",
+          "fontSize": "{wtw-font-size-32}",
+          "lineHeight": "{wtw-font-lineheight-40}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "heading-05": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-300}",
+          "fontSize": "{wtw-font-size-60}",
+          "lineHeight": "{wtw-font-lineheight-70}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "heading-06": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-600}",
+          "fontSize": "{wtw-font-size-60}",
+          "lineHeight": "{wtw-font-lineheight-70}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "paragraph-01": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-300}",
+          "fontSize": "{wtw-font-size-32}",
+          "lineHeight": "{wtw-font-lineheight-40}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for larger paragraphs of type that are usually three or more lines in length."
+      },
+      "quotation-01": {
+        "value": {
+          "fontFamily": "{wtw-font-family-serif}",
+          "fontWeight": "{wtw-font-weight-300}",
+          "fontSize": "{wtw-font-size-32}",
+          "lineHeight": "{wtw-font-lineheight-40}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "“Quote.”"
+      },
+      "quotation-02": {
+        "value": {
+          "fontFamily": "{wtw-font-family-serif}",
+          "fontWeight": "{wtw-font-weight-300}",
+          "fontSize": "{wtw-font-size-60}",
+          "lineHeight": "{wtw-font-lineheight-70}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "“Quote.”"
+      },
+      "display-01": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-300}",
+          "fontSize": "{wtw-font-size-76}",
+          "lineHeight": "{wtw-font-lineheight-86}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      },
+      "display-02": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-600}",
+          "fontSize": "{wtw-font-size-76}",
+          "lineHeight": "{wtw-font-lineheight-86}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      },
+      "display-03": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-300}",
+          "fontSize": "{wtw-font-size-84}",
+          "lineHeight": "{wtw-font-lineheight-94}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      },
+      "display-04": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-300}",
+          "fontSize": "{wtw-font-size-156}",
+          "lineHeight": "{wtw-font-lineheight-164}",
+          "letterSpacing": "{wtw-font-letterspacing-tighter}"
+        },
+        "type": "typography",
+        "description": "Display"
+      }
+    },
+    "wtw-font-link": {
+      "body-compact-01": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-400}",
+          "fontSize": "{wtw-font-size-14}",
+          "lineHeight": "{wtw-font-lineheight-18}",
+          "letterSpacing": "{wtw-font-letterspacing-loose}",
+          "textDecoration": "underline"
+        },
+        "type": "typography"
+      },
+      "body-compact-02": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-400}",
+          "fontSize": "{wtw-font-size-16}",
+          "lineHeight": "{wtw-font-lineheight-22}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}",
+          "textDecoration": "underline"
+        },
+        "type": "typography"
+      },
+      "helper-text-01": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-400}",
+          "fontSize": "{wtw-font-size-12}",
+          "lineHeight": "{wtw-font-lineheight-16}",
+          "letterSpacing": "{wtw-font-letterspacing-looser}",
+          "textDecoration": "underline"
+        },
+        "type": "typography"
+      },
+      "body-01": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-400}",
+          "fontSize": "{wtw-font-size-14}",
+          "lineHeight": "{wtw-font-lineheight-20}",
+          "letterSpacing": "{wtw-font-letterspacing-loose}",
+          "textDecoration": "underline"
+        },
+        "type": "typography"
+      },
+      "body-02": {
+        "value": {
+          "fontFamily": "{wtw-font-family-sans}",
+          "fontWeight": "{wtw-font-weight-400}",
+          "fontSize": "{wtw-font-size-16}",
+          "lineHeight": "{wtw-font-lineheight-24}",
+          "letterSpacing": "{wtw-font-letterspacing-normal}",
+          "textDecoration": "underline"
+        },
+        "type": "typography"
+      }
     }
   },
-  "$themes": [],
+  "$themes": [
+    {
+      "id": "c1aaa1ac873318cd6fd6cd6f31bc6efde2228ff7",
+      "name": "Core",
+      "$figmaStyleReferences": {
+        "wtw-font-body.compact-01": "S:be093a00629f475c885954631fe7d5c0f006ab8a,",
+        "wtw-font-body.compact-02": "S:f130c6c87900c62e143fb5b050d2f219317679b5,",
+        "wtw-font-body.01": "S:a0103baf09eeea14ebebd4a042a363ef6f25dd56,",
+        "wtw-font-body.02": "S:0d9afa3cf961910dd39203f16745f51ec9c8726a,",
+        "wtw-font-utility.code-01": "S:98e18fc245c9452a7022507487e217c5ae165984,",
+        "wtw-font-utility.code-02": "S:9dde9511f99a158c80b903d7a6d1f1c8add9aa53,",
+        "wtw-font-utility.label-01": "S:20b163e095010fa6c0933d8cbda030992e5e73d3,",
+        "wtw-font-utility.label-02": "S:b5d6f8f3281264c03a7c49c0e0a52ec5d1d3ea59,",
+        "wtw-font-utility.helper-text-01": "S:c7e8c88549447eb0fc8790282b78e633202fb46a,",
+        "wtw-font-utility.helper-text-02": "S:852d50e3fe51eb56158e6ddc0f44542e368c2015,",
+        "wtw-font-utility.legal-01": "S:643bc1860ee4d7ad71f684d1300f87317b37b9d1,",
+        "wtw-font-utility.legal-02": "S:33034f1d32d313634fcc5fe72a041c8db7ebfe0a,",
+        "wtw-font-heading.compact-01": "S:6a402b224d6c71cd8dbc24e8f23fecd0c606fe7c,",
+        "wtw-font-heading.compact-02": "S:34b6aab563f74539df2d003c46122061770633cf,",
+        "wtw-font-heading.01": "S:fe8a9d300809aa1c3394a40fe557f9b535377227,",
+        "wtw-font-heading.02": "S:266eea474003816c9a21f3e1235191f54f40b4eb,",
+        "wtw-font-heading.03": "S:a4aa622c9c51e706ab4bfbe97a43cf11610a7c9f,",
+        "wtw-font-heading.04": "S:2403ea6c39b1cf9ee99d96f6d87b8489e170602c,",
+        "wtw-font-heading.05": "S:8a1f67345819f63c32e1fc76fd0360bf985654b3,",
+        "wtw-font-heading.06": "S:811a4fc0f69e5cb7a653c42249c8474e32e91ccb,",
+        "wtw-font-heading.07": "S:dd08936963180cd3bd1649940ddc524d69a4ab80,",
+        "color-skyss-red.50": "S:0e001d3e677bc73db4600b2ca21051c0054511b6,",
+        "color-skyss-red.150": "S:f75853266fab88eda23687b5dabbd972325181c7,",
+        "color-skyss-red.250": "S:5a095e47157e6ad6456b7e286d8b8fa88c7f4bc2,",
+        "color-skyss-red.350": "S:0a9d40111f1ef82f5470e75f8aad88998b06a5ab,",
+        "color-skyss-red.450": "S:361990c2fdcc3671cad6b252ffe56a3e87f8e352,",
+        "color-skyss-red.500": "S:e528e88e80a6bfbd6e8ba64c9b820b180f91f347,",
+        "color-skyss-red.550": "S:e62c43993886b58b874fd3f396897fa878f4e29b,",
+        "color-skyss-red.750": "S:5db54c990246495d8d1eea665b21d98cc124137e,",
+        "color-skyss-red.850": "S:b3afec2442225bc4068d48c9ec2cd84314d89dac,",
+        "color-skyss-red.900": "S:c1c51286a0685f2f98ba9f8e426fe5088f8514b8,",
+        "color-neutral.grey-050": "S:fe860c4a9efb5f7e5eff8a9d34c51946eeb810fc,",
+        "color-neutral.grey-150": "S:14cfabd72969e3a3f37b5189b188b01fbd2de324,",
+        "color-neutral.grey-250": "S:83b0fef651854056e0737ff4f17437ce1a6fc025,",
+        "color-neutral.grey-350": "S:cec8e0212e8c5e0d55cbcdbfa4f268857b612db3,",
+        "color-blue.50": "S:7e592284c3c3c98820187c10321892b3fbac5a4d,",
+        "color-blue.150": "S:3af5d71d8c01d6312a732a76f4fb1153269e4b6f,",
+        "color-blue.250": "S:0e2690df32ee9c3b320c5e8aa8c4c8db97b51e18,",
+        "color-blue.350": "S:595111c7292439fe66554ca95ea60181b836fb40,",
+        "color-blue.450": "S:6b7cf515b53d0b7af464a1e32cd882240cbde022,",
+        "color-blue.500": "S:2ded756d9cf325519c02a5fce21ddfdac4dfa2fd,",
+        "color-blue.550": "S:94527b04f29120679a72d0a9624f83baa73eeccd,",
+        "color-blue.650": "S:4318127c85c53a81168d9f0b3e6f17ff48b173a8,",
+        "color-blue.750": "S:a7f1b6f9a20d92ff805bddbc0f7c276a83cb025d,",
+        "color-blue.850": "S:ffd6f221d04d0243380a1e4600deec418ff2e5a1,",
+        "color-blue.900": "S:9d8449ad3a97eda6da60e8b6426918639c9d7a36,",
+        "color-skyss-red.650": "S:76b9123549a09a13a4eb8194882357e455814b52,",
+        "wtw-font-fluid-sm.heading-03": "S:0ad4d767c4f63a8aacbe92fdea510f497df2f01d,",
+        "wtw-font-fluid-sm.heading-04": "S:0134aafacf2f8a6b8b713f5569eb56fbfecaf754,",
+        "wtw-font-fluid-sm.heading-05": "S:c462d5b11d0b0ec0cd3d29981e589a7d500f8bdc,",
+        "wtw-font-fluid-sm.heading-06": "S:6767fc79baf9b1abbf24efd681248f0fec399742,",
+        "wtw-font-fluid-sm.paragraph-01": "S:ec4c2a935ee1358936c7522fc010e7103267053e,",
+        "wtw-font-fluid-sm.quotation-01": "S:6f228f8e3797c766389582db369130ae8c6a8b9e,",
+        "wtw-font-fluid-sm.quotation-02": "S:b5f4a87252cecb4dd17747094f08efa59f694781,",
+        "wtw-font-fluid-sm.display-01": "S:4ec1eab0331f79bb34e70a9d6e025c40b1d41067,",
+        "wtw-font-fluid-sm.display-02": "S:8a97c8b274cb0db2b0a13d9647103ef6b3a92b7c,",
+        "wtw-font-fluid-sm.display-03": "S:23624c44ff30e80a0fcf4127bd420e26a50bf304,",
+        "wtw-font-fluid-sm.display-04": "S:639ac22c7a489e92a58bfa00eeee38c1f7b63eb8,",
+        "wtw-font-fluid-md.heading-03": "S:598615f6983c53b05a93a44aebbefd7b2a3171d4,",
+        "wtw-font-fluid-md.heading-04": "S:10019bfcffc9a7eacc2c34bd8c37cdbacd415a19,",
+        "wtw-font-fluid-md.heading-05": "S:76e29b120744259c15b5c97242465138a0c210c1,",
+        "wtw-font-fluid-md.heading-06": "S:407a33340233481e087ad5d93c52977d1f21c2c0,",
+        "wtw-font-fluid-md.paragraph-01": "S:17b082252c626861fc1288103bbf9d43fe603709,",
+        "wtw-font-fluid-md.quotation-01": "S:b096b9ec90e8f0071adcecd89df3e2a041d2a9e4,",
+        "wtw-font-fluid-md.quotation-02": "S:cfef494cf04d8558f2805107768d35441492a926,",
+        "wtw-font-fluid-md.display-01": "S:f7bd63a31dbe48235dc179471e7b618d637375d8,",
+        "wtw-font-fluid-md.display-02": "S:263d6c744f212f39ace0bfa07c9c6ccdf55dbc65,",
+        "wtw-font-fluid-md.display-03": "S:eba385ea333c2eb6dcfe7a28d42518b25b2d08d3,",
+        "wtw-font-fluid-md.display-04": "S:8a2b674f9badc327839a240907b6b2b611ccd089,",
+        "wtw-font-fluid-lg.heading-03": "S:ef86629330a9cb5a6384e4bb951b9001190b5e3b,",
+        "wtw-font-fluid-lg.heading-04": "S:2114f18d36ca8fb4f8f7d788259a059756c3daef,",
+        "wtw-font-fluid-lg.heading-05": "S:5dfbd30cd18c2617f8d7497a41da5618866ec516,",
+        "wtw-font-fluid-lg.heading-06": "S:341acd0ecda710a4ed11a8cf527c11baeeeb5029,",
+        "wtw-font-fluid-lg.paragraph-01": "S:6860e649955f2e2b1f524bffb420305b6d6fe96a,",
+        "wtw-font-fluid-lg.quotation-01": "S:de72e2e0a46362ca0fa07706ce07327d786631db,",
+        "wtw-font-fluid-lg.quotation-02": "S:cc4db89e2fce72f4c1d99c3fd2573750646ed11e,",
+        "wtw-font-fluid-lg.display-01": "S:2bc2815d99c15676964381c9501c9ceb56f2ac33,",
+        "wtw-font-fluid-lg.display-02": "S:705f9f7b2f5294ae581dc24d9fcbb1455772adcf,",
+        "wtw-font-fluid-lg.display-03": "S:dafb77c41ce037012eefbd61fd0950677818615c,",
+        "wtw-font-fluid-lg.display-04": "S:96ea2078f9324186c394ed398772b420a90b6dfe,",
+        "wtw-font-fluid-max.heading-03": "S:cbb3fc63e97c08fd847e2965c7da0450bc919543,",
+        "wtw-font-fluid-max.heading-04": "S:421233e614b9c5191002cddcaf6736d4b790910a,",
+        "wtw-font-fluid-max.heading-05": "S:01f9dd52c742b8ab0ad0f10371ba04a133a7a2a0,",
+        "wtw-font-fluid-max.heading-06": "S:bb96f3c8f81784001ef4dca602bf6f21159a616d,",
+        "wtw-font-fluid-max.paragraph-01": "S:83d9a5c45520ab5b073532a0af45ba7c1745acc8,",
+        "wtw-font-fluid-max.quotation-01": "S:58c717d2d789ca2d078f1dbd587b72ce47f7d016,",
+        "wtw-font-fluid-max.quotation-02": "S:f199f92692244bb172e99ae3170e444c4875be94,",
+        "wtw-font-fluid-max.display-01": "S:698d4420d174e9f43ca1d21e8040ca642c8e5738,",
+        "wtw-font-fluid-max.display-02": "S:9b3076067df743d32a78d9c435cf636a64250352,",
+        "wtw-font-fluid-max.display-03": "S:0677f1f1a16b05a03a8164b5877bfc132c65ca17,",
+        "wtw-font-fluid-max.display-04": "S:f71e61f0cccc788c2a86feaa70e50169cfab4f48,",
+        "wtw-font-fluid-xl.heading-03": "S:5aade169dd9d00fb3a074b0d8f57483355f7e292,",
+        "wtw-font-fluid-xl.heading-04": "S:4eee9a07ea1391cb27c1cc97d9f5850dd7ea9ffd,",
+        "wtw-font-fluid-xl.heading-05": "S:540996554bc0b0cbca5fbc29234c6052626e3eee,",
+        "wtw-font-fluid-xl.heading-06": "S:11a77abfbdc1bdf459dce7f1a72ae1aa83af5b98,",
+        "wtw-font-fluid-xl.paragraph-01": "S:e00646e2864060625bac5ead43bec736d55cb479,",
+        "wtw-font-fluid-xl.quotation-01": "S:537efec928be4b7801a6d721e57a328d5131cdbc,",
+        "wtw-font-fluid-xl.quotation-02": "S:4c7290c1b6fa1e4f036bc04c1f7d7863d119d57a,",
+        "wtw-font-fluid-xl.display-01": "S:19d30d6388d9f313c1d9b869dc26500c0448c718,",
+        "wtw-font-fluid-xl.display-02": "S:b33c16aee57f3188307ac8533518e29216847ca6,",
+        "wtw-font-fluid-xl.display-03": "S:c729ae6eb746a3931f2838eb95245f777a9c10ae,",
+        "wtw-font-fluid-xl.display-04": "S:eb80b99c9cf4addb5e50387b1e5f39c901c67d7c,",
+        "wtw-font-link.body-compact-01": "S:200244c75ebc6f077f3b670af687c0dd8f9917bb,",
+        "wtw-font-link.body-compact-02": "S:1102501f91394e48c598bb8271aed7e0b1b7dbdd,",
+        "wtw-font-link.helper-text-01": "S:a4089e2c0946188788931250d6ee0519d8602124,",
+        "wtw-font-link.body-01": "S:f4bf3516199dad8c07d8cf38adb362bc36926add,",
+        "wtw-font-link.body-02": "S:aa343457a17b63a2f77fc291a4f81cfbfdbe1754,",
+        "color-neutral.white": "S:2ec198a4b9702dc6829d0f40db2b53d6bc814305,",
+        "wtw-color.customer.skyss-red.50": "S:a9cfe9009f2ecfa2109737ba4e713f4564fa3876,",
+        "wtw-color.customer.skyss-red.150": "S:8136dd54b6aaf8e72ce1d90f80fee57548a1e198,",
+        "wtw-color.customer.skyss-red.250": "S:f1c9b6e3116fa877c3c2cd7604559c7f48227c83,",
+        "wtw-color.customer.skyss-red.350": "S:62e44fd3be9036c35997e414fa37fa7b9b209438,",
+        "wtw-color.customer.skyss-red.450": "S:1a6d20d0f920e422be74a6c990d9863e1a386b10,",
+        "wtw-color.customer.skyss-red.500": "S:053c639e9310144f87cb999fdfb84afcb014b975,",
+        "wtw-color.customer.skyss-red.550": "S:b0dcc659a566ccdaa11ea856ecd00f9a15bfb27d,",
+        "wtw-color.customer.skyss-red.650": "S:962077b5d8da9c452857b0eeb50acff19e3c8f0b,",
+        "wtw-color.customer.skyss-red.750": "S:d1cba1b5cdfb5c6d39cbc2d99df9876a6e3c3e76,",
+        "wtw-color.customer.skyss-red.850": "S:61ed2a53115b551ec43e23b400fb78939902e798,",
+        "wtw-color.customer.skyss-red.900": "S:494f13a60412578239a691a22adb47e65950a955,",
+        "wtw-color.default.gray.50": "S:ed2f1b3dc59198b60f04b8a5725073e584ed5e62,",
+        "wtw-color.default.gray.150": "S:0c5fc29400a04c1d13aa05cbde20d3b3940e1137,",
+        "wtw-color.default.gray.250": "S:1e6f69f56ff6c34e6f942460b4f87959efd64040,",
+        "wtw-color.default.gray.350": "S:78bf5375d23fc20be2303b484acba43349964d82,",
+        "wtw-color.default.gray.450": "S:6c4c5d7ae639bf9d86f646853983f46dbbc4fab3,",
+        "wtw-color.default.gray.500": "S:e4fecfd86d7ddff5cc52853e866e99efada85d7b,",
+        "wtw-color.default.gray.550": "S:1db49c6790a74abfe86631d0c9777925aabf3699,",
+        "wtw-color.default.gray.650": "S:285eb90efe36a3d5b3787734ab4e530b7b51446b,",
+        "wtw-color.default.gray.750": "S:86efd4da7237556115107e15576020125d2a1a87,",
+        "wtw-color.default.gray.850": "S:b283783a4b67f076051d1f746fce23cb97197706,",
+        "wtw-color.default.gray.900": "S:ec2b9ebec11a09c08ce3ac3046d31af0669962c8,",
+        "wtw-color.default.gray.980": "S:c903ca804dddccc494d3118f1bf6cde60b1a713c,",
+        "wtw-color.default.gray.white": "S:8f3d38fcac2da06a7b3b52710770eb107b5aae43,",
+        "wtw-color.default.blue.50": "S:478578aa3f50c61b8d146dcc19cae3ad13719217,",
+        "wtw-color.default.blue.150": "S:7c9e9f95cdae1dbf25ea9bfa070ae6faba1bb526,",
+        "wtw-color.default.blue.250": "S:a6270d6241eeb99fa3b04eb76f79173d214fcd47,",
+        "wtw-color.default.blue.350": "S:545e87607a456b9f92dc3633f5780b064b073fee,",
+        "wtw-color.default.blue.450": "S:62148d2be376bd8a5ca1f9dc663bcad89a67a448,",
+        "wtw-color.default.blue.500": "S:3d78b8bd3fd03ec45e590ed7c52f8191e1a772dc,",
+        "wtw-color.default.blue.550": "S:21ed685cff28ea34cfc906833309a45e838961d0,",
+        "wtw-color.default.blue.650": "S:adcb96b8835a96f5acb4494816b657d2b95c7afc,",
+        "wtw-color.default.blue.750": "S:099f08a8510a666f073f984ea853c2540ac9dec5,",
+        "wtw-color.default.blue.850": "S:77a573cbad77348b971fe2746b56780ccc395be9,",
+        "wtw-color.default.blue.900": "S:0278ed3b70982c42dd7b346763f63b95623a298e,",
+        "wtw-color.default.green.50": "S:bda8323ba4cb5d93d2b10cad7f556c36b0fbe278,",
+        "wtw-color.default.green.150": "S:2261a0f2004d2c1a99dd538c2fd3f9b24370cfcf,",
+        "wtw-color.default.green.250": "S:663cd0a91584d6400a47543423bb599396ebe518,",
+        "wtw-color.default.green.350": "S:a44e2d39f1f461a01e1e83d9154c521335d6f7c1,",
+        "wtw-color.default.green.450": "S:ed7022da1549629dc09f437bd07db889e8ee17fa,",
+        "wtw-color.default.green.500": "S:5981272ad4c957b5ea58ab2514fb3117badc3488,",
+        "wtw-color.default.green.550": "S:85aeb94a73a1c2f011b55716e0a9feea4db68f0b,",
+        "wtw-color.default.green.650": "S:6c97386737cfa1cb091e37a66060b4735c86313a,",
+        "wtw-color.default.green.750": "S:edddfcd0c9af492ca91acf43f6594b5c9375053a,",
+        "wtw-color.default.green.850": "S:c551631762a2ba906731de2b65379d561b334df3,",
+        "wtw-color.default.green.900": "S:8603ba0b4e4206226d7a9a96565f53855bd0c170,",
+        "wtw-color.default.yellow.50": "S:0a110cf46e8cfe7899c74b0dd3499132eb6a0ab2,",
+        "wtw-color.default.yellow.150": "S:f3fe93447788a3f6f9c7f9a7668dfcdd84f3e20a,",
+        "wtw-color.default.yellow.250": "S:0385f152ff8019766cb492b1a31c9c8b48bab44b,",
+        "wtw-color.default.yellow.350": "S:a9bfa34be153cd9ecfa783be63abdd9faee8b410,",
+        "wtw-color.default.yellow.450": "S:8849d28c65bf5b3d170dfa60319a857b7c07fe71,",
+        "wtw-color.default.yellow.500": "S:65df328b190181117ebde6ef79a1d9d602466dd7,",
+        "wtw-color.default.yellow.550": "S:d9a2858c4a507e11651a5564da8e337229b82eb0,",
+        "wtw-color.default.yellow.650": "S:9506306fdd1418e68476a534498f6166d9e8cc6e,",
+        "wtw-color.default.yellow.750": "S:16be6bb5213cb1343a2303076c88edc3c7adb2ee,",
+        "wtw-color.default.yellow.850": "S:61dbac682afc881ce497ed1f866a73b3b1ee3fe2,",
+        "wtw-color.default.yellow.900": "S:fe9ca91b7fec4725f4629f978f6dfce7de1605aa,",
+        "wtw-color.default.red.50": "S:10e5011d55c43844ad3ce942b2a6d1241ba0420a,",
+        "wtw-color.default.red.150": "S:0f128fcbda30c6be682a6abb7cff431ac729e5aa,",
+        "wtw-color.default.red.250": "S:eb1c3c37e18183d2dc5fa4522b2a2b3c5400c084,",
+        "wtw-color.default.red.350": "S:1dfeef2ec8fc31a232a4bdec156b9c69aaa4d528,",
+        "wtw-color.default.red.450": "S:fe80ecc9b3975fe1803f6a12d770a0761362a022,",
+        "wtw-color.default.red.500": "S:6edec07e053af31bb55287730fe98cc26f7277d6,",
+        "wtw-color.default.red.550": "S:0deaebe853e0775b667a8ce11a80c4d26b04d9a3,",
+        "wtw-color.default.red.650": "S:ea1956c2e886ec485c4a30643ba2907ff75db859,",
+        "wtw-color.default.red.750": "S:1c8bd70fd4922f0407284ac779dc2a5b8ec567db,",
+        "wtw-color.default.red.850": "S:36432cee2e063d4d7de9c431b1962be7dabfa020,",
+        "wtw-color.default.red.900": "S:3291a6a1eb6cf5db9b9e551883564ad16432d9e1,",
+        "wtw-color.default.gray.25": "S:9ec9bef2c92c66442d7f756d7b560ae9ed18fb16,",
+        "test.test.test1": "S:f85f1c6f9b1de9c005220c78d0cd2e90fd4cb8a1,",
+        "test.1234.test1": "S:dc29dd6a9def5c0d217d342867aa9f601a9f192c,"
+      },
+      "selectedTokenSets": {
+        "wtw": "enabled"
+      },
+      "$figmaCollectionId": "VariableCollectionId:528:1941",
+      "$figmaModeId": "528:3",
+      "$figmaVariableReferences": {
+        "wtw-color.customer.skyss-red.50": "f61c7ca2939e66b858035051f345d30aaf5d05e8",
+        "wtw-color.customer.skyss-red.150": "a3d63b8c931232d146333dfa4864e9e569f4d291",
+        "wtw-color.customer.skyss-red.250": "6a52b88fa479a122d3948b3b1bfddf46f74acfd4",
+        "wtw-color.customer.skyss-red.350": "64403c59d46726b3947ad79b7f61ec2d6eb47634",
+        "wtw-color.customer.skyss-red.450": "64b8a053e63c5446acbf0a8ca71db54fdd454b5c",
+        "wtw-color.customer.skyss-red.500": "02c69230fe78d4e91d78e1ed8b41917430a56a00",
+        "wtw-color.customer.skyss-red.550": "944539aaa91f0704479fb6b72be5812e14cb30ce",
+        "wtw-color.customer.skyss-red.650": "77bca4e5a7b6eedb2580f62e434e0e5cd0ee58c3",
+        "wtw-color.customer.skyss-red.750": "a0201235c66b5c8d9325de1e973934e6d0f02171",
+        "wtw-color.customer.skyss-red.850": "0d9812da7385dc17c8cd313ff046c0a5ce5c6b0b",
+        "wtw-color.customer.skyss-red.900": "2805771d99c89d679d4a1643083678507a3a53e1",
+        "wtw-color.default.gray.50": "d0224f398a72d44e45232b741a9b8d9c09a165f5",
+        "wtw-color.default.gray.150": "97fd74dd2aee4907a582d49a660186fe73f0dea6",
+        "wtw-color.default.gray.250": "118e59c97a65c9058631361da6f4424071a57696",
+        "wtw-color.default.gray.350": "09ad9291005bb98af6295de71a1d95d8ea563ba9",
+        "wtw-color.default.gray.450": "6c9ae62dd3adfe6653553e047f7908441332896b",
+        "wtw-color.default.gray.500": "77d10430f1defaaccb41ef96077ac569f5c0d1a6",
+        "wtw-color.default.gray.550": "9c127df35d97ce38f4840cc69455fd39d7ad6185",
+        "wtw-color.default.gray.650": "aefdcedb0dcb70fdd5679d45972b2b4c9ce93683",
+        "wtw-color.default.gray.750": "0434ca4dbd2aaf329a7b482e7228e648b1ff2acf",
+        "wtw-color.default.gray.850": "8b7acfe60d9e013ce1a39a293f1be7a4bf70f9c8",
+        "wtw-color.default.gray.900": "16881e8d61b96bd415c71a1866a26f46afbb8aff",
+        "wtw-color.default.gray.980": "319bf13757a70e7223f6b0c0f9b5d8b107ff8465",
+        "wtw-color.default.gray.white": "24d7cff820bfe7814b59dc012468ac30e227ceef",
+        "wtw-color.default.blue.50": "4659dc0db4b16ac21ed371da9251aeba67e181f4",
+        "wtw-color.default.blue.150": "e87095eae97baebe9a2c0d2724b8181786f8bcfc",
+        "wtw-color.default.blue.250": "ffae052dec48667d32e5cb645b3299bfa7a3c115",
+        "wtw-color.default.blue.350": "6585461b3d48bc0d2709153d9257f4c04f68d8f8",
+        "wtw-color.default.blue.450": "6d7b8574c382690a20d7cbb7b2471bd3e505590d",
+        "wtw-color.default.blue.500": "6dfe00d5b9e0e535217a45fc1e7dbdcdd5495ad8",
+        "wtw-color.default.blue.550": "01475ce05c87331288ad6734c67ef7232e8a7baa",
+        "wtw-color.default.blue.650": "7fbef7f37579421103691e83426c52466807ab69",
+        "wtw-color.default.blue.750": "f5d234baca70c975a7345e5dd0e55a691087cbad",
+        "wtw-color.default.blue.850": "30e30009ff60da6e772e16297d130bdbfee9e3dd",
+        "wtw-color.default.blue.900": "4a120e81c8f7805d918ed11aa19c62159188ef73",
+        "wtw-color.default.green.50": "0e8688e82016f73ee435076dc47631130ec3c83d",
+        "wtw-color.default.green.150": "09d981587d8948302773ad1f23be9ad9edd78c30",
+        "wtw-color.default.green.250": "215fdc68cdffd390269cfb78f03562258be364d8",
+        "wtw-color.default.green.350": "de233efbcd9741fa14221061c1973959da8e50c9",
+        "wtw-color.default.green.450": "a19faa795a9c3d904d8aa29671db412306251fd3",
+        "wtw-color.default.green.500": "775a4ed83b83d722ccc454b826684aed5715dcff",
+        "wtw-color.default.green.550": "0e68ae6ff76f25c03e4c316e43dc6817c039c58e",
+        "wtw-color.default.green.650": "cb7c5c38bb58aa82d84079332f665af9ebfd8d28",
+        "wtw-color.default.green.750": "192392aba4a669d59e166839f43011fec03b623b",
+        "wtw-color.default.green.850": "4a23a6762dd1a0c2970a97174a9eb374aae6981c",
+        "wtw-color.default.green.900": "994f7fc13ee726a1a4b454a4bdb5cfca373cea45",
+        "wtw-color.default.yellow.50": "696a3b6794687abdd1be0c2692152b02ec0306a6",
+        "wtw-color.default.yellow.150": "48edad867b4ec3e3061b8352899fab7803ab9e47",
+        "wtw-color.default.yellow.250": "5a7fcc81548d00102eb820c01ad3bee9f8de38e6",
+        "wtw-color.default.yellow.350": "789f728b6659e7365e156e58effe487d27ea4fa4",
+        "wtw-color.default.yellow.450": "d0ef9b2be8a6383016cea12595e2f17163e713dc",
+        "wtw-color.default.yellow.500": "b35d80196c07807a21cf88a89a076d28122b3133",
+        "wtw-color.default.yellow.550": "90b732469d8372b9f501f1a6ec8528aa26fc8545",
+        "wtw-color.default.yellow.650": "382d666a3e11d30b1d98d8b9d4543621cabc36e9",
+        "wtw-color.default.yellow.750": "605d2ccf2542c4ebbf0c688e757d30939efc32fa",
+        "wtw-color.default.yellow.850": "c965e9bc6578457a23ef807c70a4a945b6f7d4da",
+        "wtw-color.default.yellow.900": "0dade2f5bd69d250b2e64e59a03e761f25d2591f",
+        "wtw-color.default.red.50": "7b229e32d53368bc757d787c1eb56f44a10d7a28",
+        "wtw-color.default.red.150": "62ac0ac66af1c00f5487927e8c3666af1fecc59c",
+        "wtw-color.default.red.250": "729146331031d93c533ffc1a09da1a00a3550728",
+        "wtw-color.default.red.350": "fb641ab1f1e85fa0bfe48dcd946b04f9258c696e",
+        "wtw-color.default.red.450": "1bee72daf42f433229d8300ddfee369b59abe74d",
+        "wtw-color.default.red.500": "c1dead6879b42877f9eae67436d55972ff6d4398",
+        "wtw-color.default.red.550": "51cecf5ec1f9224e52f9475b2ad830e2c73728de",
+        "wtw-color.default.red.650": "c57e7a818f668f4fe3995036b1511bc062489f38",
+        "wtw-color.default.red.750": "e0c2d98a1026596f76e92a1ef2753c0d13d1400f",
+        "wtw-color.default.red.850": "4aa74f5053391b48d097d28d3a05ac5aae8cf305",
+        "wtw-color.default.red.900": "f3752e343cf3480b7ee65397c965aa04280444a0",
+        "wtw-color.default.gray.25": "be5d3bf14370ce5bb8a9e35fcfbed4c85f416875",
+        "test.testing.test1": "3efebaed27276ad83ebf85b9597c8e50ad1eda71",
+        "wtw-spacing.01": "3dbca3464cb0f8a765d320f53113f133fb09ac23",
+        "wtw-spacing.02": "44dd9264cca8f37b66c8705fc866077229dd6e1d",
+        "wtw-spacing.03": "08a30bf13c2f798ce23df2e38d0b6ecce2a4c29e",
+        "wtw-spacing.04": "26d6fc944021892ed73e82acee07c9e0a97ec461",
+        "wtw-spacing.05": "1bf21309861b523237316f33adfb138e16cbb4d0",
+        "wtw-spacing.06": "b6019d4e3d23049353e430a5357fc9bd67205d44",
+        "wtw-spacing.07": "3ffea139e59c32c5f1a1bc448e7881522df8a798",
+        "wtw-spacing.08": "ca5ea68d6dc01cff30392697254df3ad09e70a22",
+        "wtw-spacing.09": "f0bd68be1139a0d2952888346225ceb353ebffb7",
+        "wtw-spacing.10": "b70ded8ec65c159daf40a7c3e23d3c3eccc0f09a",
+        "wtw-spacing.11": "66cad5f98b48af5e5abb45f7435e0aba6780db72",
+        "wtw-spacing.12": "7c530361021f958eee9efb1861706db69bd9765a",
+        "wtw-spacing.13": "93b5901aecf23845254a25abfe5787bf46fa828c",
+        "wtw-border-radius.sharp": "ca11d444d54fdb22936b76c6e59d81f9a4d310bd",
+        "wtw-border-radius.xs": "1055320d9cdeab877b2f2ed53715ed5bce06498a",
+        "wtw-border-radius.sm": "b0909b2f8cd4d47a14c54fc6f42bb8f3bfc7beca",
+        "wtw-border-radius.md": "bc3ca39e6e464ddea2fa106ad445eb1b33ecb6ad",
+        "wtw-border-radius.lg": "af2cfea646e84b140cba46986c2df528efa9d9fe",
+        "wtw-border-radius.xl": "7b8caa8f8b3475127f4e235b959ce13a17aa73a2",
+        "wtw-border-radius.pill": "8c95aea4644b1c432aa561efe43f2ff941ebe4bd",
+        "wtw-border-width.sm": "b84ad714716aa89f3861b6421d5a3af6acefb2e9",
+        "wtw-border-width.md": "ca6ca9e4c8a6644e43abd6dd1d8edd99db846e70",
+        "wtw-border-width.lg": "eb7d93317ae273a5b13bc6b290b4fbfe8016e2e4",
+        "wtw-border-width.xl": "30ebd7684de6015b60406f52bd99e2b49a8adcaf"
+      }
+    }
+  ],
   "$metadata": {
     "tokenSetOrder": [
-      "global",
-      "Base"
+      "wtw"
     ]
   }
 }
