@@ -1,6 +1,6 @@
 {
-  "wtw": {
-    "wtw-color": {
+  "Plexus": {
+    "plx-color": {
       "customer": {
         "skyss-red": {
           "50": {
@@ -287,14 +287,14 @@
             "value": "#52020F",
             "type": "color"
           },
-          "900": {
+          "950": {
             "value": "#3F010C",
             "type": "color"
           }
         }
       }
     },
-    "wtw-border-radius": {
+    "plx-border-radius": {
       "sharp": {
         "value": "0",
         "type": "borderRadius"
@@ -324,7 +324,7 @@
         "type": "borderRadius"
       }
     },
-    "wtw-border-width": {
+    "plx-border-width": {
       "sm": {
         "value": "1",
         "type": "borderWidth"
@@ -342,7 +342,7 @@
         "type": "borderWidth"
       }
     },
-    "wtw-spacing": {
+    "plx-spacing": {
       "10": {
         "value": "64",
         "type": "spacing"
@@ -396,1129 +396,1137 @@
         "type": "spacing"
       }
     },
-    "wtw-font-family-sans": {
+    "plx-font-family-sans": {
       "value": "Source Sans 3",
       "type": "fontFamilies",
       "description": "https://fonts.google.com/specimen/Source+Sans+3"
     },
-    "wtw-font-family-serif": {
+    "plx-font-family-serif": {
       "value": "Source Serif 4",
       "type": "fontFamilies",
       "description": "https://fonts.google.com/specimen/Source+Serif+4"
     },
-    "wtw-font-family-code": {
+    "plx-font-family-code": {
       "value": "Source Code Pro",
       "type": "fontFamilies",
       "description": "https://fonts.google.com/specimen/Source+Code+Pro"
     },
-    "wtw-font-size-12": {
+    "plx-font-size-12": {
       "value": "12",
       "type": "fontSizes"
     },
-    "wtw-font-size-14": {
+    "plx-font-size-14": {
       "value": "14",
       "type": "fontSizes"
     },
-    "wtw-font-size-16": {
+    "plx-font-size-16": {
       "value": "16",
       "type": "fontSizes"
     },
-    "wtw-font-size-18": {
+    "plx-font-size-18": {
       "value": "18",
       "type": "fontSizes"
     },
-    "wtw-font-size-20": {
+    "plx-font-size-20": {
       "value": "20",
       "type": "fontSizes"
     },
-    "wtw-font-size-24": {
+    "plx-font-size-24": {
       "value": "24",
       "type": "fontSizes"
     },
-    "wtw-font-size-28": {
+    "plx-font-size-28": {
       "value": "28",
       "type": "fontSizes"
     },
-    "wtw-font-size-32": {
+    "plx-font-size-32": {
       "value": "32",
       "type": "fontSizes"
     },
-    "wtw-font-size-36": {
+    "plx-font-size-36": {
       "value": "36",
       "type": "fontSizes"
     },
-    "wtw-font-size-42": {
+    "plx-font-size-42": {
       "value": "42",
       "type": "fontSizes"
     },
-    "wtw-font-size-48": {
+    "plx-font-size-48": {
       "value": "48",
       "type": "fontSizes"
     },
-    "wtw-font-size-54": {
+    "plx-font-size-54": {
       "value": "54",
       "type": "fontSizes"
     },
-    "wtw-font-size-60": {
+    "plx-font-size-60": {
       "value": "60",
       "type": "fontSizes"
     },
-    "wtw-font-size-68": {
+    "plx-font-size-68": {
       "value": "68",
       "type": "fontSizes"
     },
-    "wtw-font-size-76": {
+    "plx-font-size-76": {
       "value": "76",
       "type": "fontSizes"
     },
-    "wtw-font-size-84": {
+    "plx-font-size-84": {
       "value": "84",
       "type": "fontSizes"
     },
-    "wtw-font-size-92": {
+    "plx-font-size-92": {
       "value": "92",
       "type": "fontSizes"
     },
-    "wtw-font-size-122": {
+    "plx-font-size-122": {
       "value": "122",
       "type": "fontSizes"
     },
-    "wtw-font-size-156": {
+    "plx-font-size-156": {
       "value": "156",
       "type": "fontSizes"
     },
-    "wtw-font-weight-300": {
+    "plx-font-weight-300": {
       "value": "300",
       "type": "fontWeights",
       "description": "Light"
     },
-    "wtw-font-weight-400": {
+    "plx-font-weight-400": {
       "value": "400",
       "type": "fontWeights",
       "description": "Regular"
     },
-    "wtw-font-weight-600": {
+    "plx-font-weight-600": {
       "value": "600",
       "type": "fontWeights",
       "description": "Semibold"
     },
-    "wtw-font-letterspacing-looser": {
+    "plx-font-letterspacing-looser": {
       "value": "0.32",
       "type": "letterSpacing"
     },
-    "wtw-font-letterspacing-loose": {
+    "plx-font-letterspacing-loose": {
       "value": "0.16",
       "type": "letterSpacing"
     },
-    "wtw-font-letterspacing-normal": {
+    "plx-font-letterspacing-normal": {
       "value": "0",
       "type": "letterSpacing"
     },
-    "wtw-font-letterspacing-tight": {
+    "plx-font-letterspacing-tight": {
       "value": "-0.64",
       "type": "letterSpacing"
     },
-    "wtw-font-letterspacing-tighter": {
+    "plx-font-letterspacing-tighter": {
       "value": "-0.96",
       "type": "letterSpacing"
     },
-    "wtw-font-lineheight-16": {
+    "plx-font-lineheight-16": {
       "value": "16",
       "type": "lineHeights",
       "description": "For font size 12"
     },
-    "wtw-font-lineheight-18": {
+    "plx-font-lineheight-18": {
       "value": "18",
       "type": "lineHeights",
       "description": "For font size 14"
     },
-    "wtw-font-lineheight-20": {
+    "plx-font-lineheight-20": {
       "value": "20",
       "type": "lineHeights",
       "description": "For font size 14"
     },
-    "wtw-font-lineheight-22": {
+    "plx-font-lineheight-22": {
       "value": "22",
       "type": "lineHeights",
       "description": "For font size 16"
     },
-    "wtw-font-lineheight-24": {
+    "plx-font-lineheight-24": {
       "value": "24",
       "type": "lineHeights",
       "description": "For font size 16"
     },
-    "wtw-font-lineheight-26": {
+    "plx-font-lineheight-26": {
       "value": "26",
       "type": "lineHeights",
       "description": "For font size 20"
     },
-    "wtw-font-lineheight-28": {
+    "plx-font-lineheight-28": {
       "value": "28",
       "type": "lineHeights",
       "description": "For font size 20"
     },
-    "wtw-font-lineheight-30": {
+    "plx-font-lineheight-30": {
       "value": "30",
       "type": "lineHeights",
       "description": "For font size 24"
     },
-    "wtw-font-lineheight-36": {
+    "plx-font-lineheight-36": {
       "value": "36",
       "type": "lineHeights",
       "description": "For font size 28"
     },
-    "wtw-font-lineheight-40": {
+    "plx-font-lineheight-40": {
       "value": "40",
       "type": "lineHeights",
       "description": "For font size 32"
     },
-    "wtw-font-lineheight-44": {
+    "plx-font-lineheight-44": {
       "value": "44",
       "type": "lineHeights",
       "description": "For font size 36"
     },
-    "wtw-font-lineheight-50": {
+    "plx-font-lineheight-50": {
       "value": "50",
       "type": "lineHeights",
       "description": "For font size 42"
     },
-    "wtw-font-lineheight-56": {
+    "plx-font-lineheight-56": {
       "value": "56",
       "type": "lineHeights",
       "description": "For font size 48"
     },
-    "wtw-font-lineheight-64": {
+    "plx-font-lineheight-64": {
       "value": "64",
       "type": "lineHeights",
       "description": "For font size 54"
     },
-    "wtw-font-lineheight-70": {
+    "plx-font-lineheight-70": {
       "value": "70",
       "type": "lineHeights",
       "description": "For font size 60"
     },
-    "wtw-font-lineheight-78": {
+    "plx-font-lineheight-78": {
       "value": "78",
       "type": "lineHeights",
       "description": "For font size 68"
     },
-    "wtw-font-lineheight-86": {
+    "plx-font-lineheight-86": {
       "value": "86",
       "type": "lineHeights",
       "description": "For font size 76"
     },
-    "wtw-font-lineheight-94": {
+    "plx-font-lineheight-94": {
       "value": "94",
       "type": "lineHeights",
       "description": "For font size 84"
     },
-    "wtw-font-lineheight-102": {
+    "plx-font-lineheight-102": {
       "value": "102",
       "type": "lineHeights",
       "description": "For font size 92"
     },
-    "wtw-font-lineheight-130": {
+    "plx-font-lineheight-130": {
       "value": "130",
       "type": "lineHeights",
       "description": "For font size 122"
     },
-    "wtw-font-lineheight-164": {
+    "plx-font-lineheight-164": {
       "value": "164",
       "type": "lineHeights",
       "description": "For font size 156"
     },
-    "wtw-font-body": {
+    "plx-font-body": {
       "compact-01": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-400}",
-          "lineHeight": "{wtw-font-lineheight-18}",
-          "fontSize": "{wtw-font-size-14}",
-          "letterSpacing": "{wtw-font-letterspacing-loose}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "lineHeight": "{plx-font-lineheight-18}",
+          "fontSize": "{plx-font-size-14}",
+          "letterSpacing": "{plx-font-letterspacing-loose}"
         },
         "type": "typography"
       },
       "compact-02": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-400}",
-          "lineHeight": "{wtw-font-lineheight-22}",
-          "fontSize": "{wtw-font-size-16}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "lineHeight": "{plx-font-lineheight-22}",
+          "fontSize": "{plx-font-size-16}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography"
       },
       "01": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-400}",
-          "lineHeight": "{wtw-font-lineheight-20}",
-          "fontSize": "{wtw-font-size-14}",
-          "letterSpacing": "{wtw-font-letterspacing-loose}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "lineHeight": "{plx-font-lineheight-20}",
+          "fontSize": "{plx-font-size-14}",
+          "letterSpacing": "{plx-font-letterspacing-loose}"
         },
         "type": "typography"
       },
       "02": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-400}",
-          "lineHeight": "{wtw-font-lineheight-24}",
-          "fontSize": "{wtw-font-size-16}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "lineHeight": "{plx-font-lineheight-24}",
+          "fontSize": "{plx-font-size-16}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography"
       }
     },
-    "wtw-font-utility": {
+    "plx-font-utility": {
       "code-01": {
         "value": {
-          "fontFamily": "{wtw-font-family-code}",
-          "fontWeight": "{wtw-font-weight-400}",
-          "lineHeight": "{wtw-font-lineheight-16}",
-          "fontSize": "{wtw-font-size-12}",
-          "letterSpacing": "{wtw-font-letterspacing-looser}"
+          "fontFamily": "{plx-font-family-code}",
+          "fontWeight": "{plx-font-weight-400}",
+          "lineHeight": "{plx-font-lineheight-16}",
+          "fontSize": "{plx-font-size-12}",
+          "letterSpacing": "{plx-font-letterspacing-looser}"
         },
-        "type": "typography"
+        "type": "typography",
+        "description": "This is for inline code snippets and smaller code elements."
       },
       "code-02": {
         "value": {
-          "fontFamily": "{wtw-font-family-code}",
-          "fontWeight": "{wtw-font-weight-400}",
-          "lineHeight": "{wtw-font-lineheight-20}",
-          "fontSize": "{wtw-font-size-14}",
-          "letterSpacing": "{wtw-font-letterspacing-looser}"
+          "fontFamily": "{plx-font-family-code}",
+          "fontWeight": "{plx-font-weight-400}",
+          "lineHeight": "{plx-font-lineheight-20}",
+          "fontSize": "{plx-font-size-14}",
+          "letterSpacing": "{plx-font-letterspacing-looser}"
         },
-        "type": "typography"
+        "type": "typography",
+        "description": "This is for large code snippets and larger code elements."
       },
       "label-01": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-400}",
-          "fontSize": "{wtw-font-size-12}",
-          "lineHeight": "{wtw-font-lineheight-16}",
-          "letterSpacing": "{wtw-font-letterspacing-looser}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-12}",
+          "lineHeight": "{plx-font-lineheight-16}",
+          "letterSpacing": "{plx-font-letterspacing-looser}"
         },
-        "type": "typography"
+        "type": "typography",
+        "description": "This is a multipurpose type style that can be used for field labels in components, error messages, and captions. It should not be used for body copy."
       },
       "label-02": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-400}",
-          "fontSize": "{wtw-font-size-14}",
-          "lineHeight": "{wtw-font-lineheight-18}",
-          "letterSpacing": "{wtw-font-letterspacing-loose}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-14}",
+          "lineHeight": "{plx-font-lineheight-18}",
+          "letterSpacing": "{plx-font-letterspacing-loose}"
         },
-        "type": "typography"
+        "type": "typography",
+        "description": "This is a multipurpose type style that can be used for field labels in components, error messages, and captions. It should not be used for body copy."
       },
       "helper-text-01": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-400}",
-          "fontSize": "{wtw-font-size-12}",
-          "lineHeight": "{wtw-font-lineheight-16}",
-          "letterSpacing": "{wtw-font-letterspacing-looser}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-12}",
+          "lineHeight": "{plx-font-lineheight-16}",
+          "letterSpacing": "{plx-font-letterspacing-looser}"
         },
-        "type": "typography"
+        "type": "typography",
+        "description": "This is for explanatory helper text that appears below a field title within a component."
       },
       "helper-text-02": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-400}",
-          "fontSize": "{wtw-font-size-14}",
-          "lineHeight": "{wtw-font-lineheight-18}",
-          "letterSpacing": "{wtw-font-letterspacing-loose}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-14}",
+          "lineHeight": "{plx-font-lineheight-18}",
+          "letterSpacing": "{plx-font-letterspacing-loose}"
         },
-        "type": "typography"
+        "type": "typography",
+        "description": "This is for explanatory helper text that appears below a field title within a component."
       },
       "legal-01": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-400}",
-          "fontSize": "{wtw-font-size-12}",
-          "lineHeight": "{wtw-font-lineheight-16}",
-          "letterSpacing": "{wtw-font-letterspacing-looser}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-12}",
+          "lineHeight": "{plx-font-lineheight-16}",
+          "letterSpacing": "{plx-font-letterspacing-looser}"
         },
-        "type": "typography"
+        "type": "typography",
+        "description": "This is for legal copy appearing in product pages."
       },
       "legal-02": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-400}",
-          "fontSize": "{wtw-font-size-14}",
-          "lineHeight": "{wtw-font-lineheight-18}",
-          "letterSpacing": "{wtw-font-letterspacing-loose}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-14}",
+          "lineHeight": "{plx-font-lineheight-18}",
+          "letterSpacing": "{plx-font-letterspacing-loose}"
         },
-        "type": "typography"
+        "type": "typography",
+        "description": "This is for legal copy appearing in web pages."
       }
     },
-    "wtw-font-heading": {
+    "plx-font-heading": {
       "compact-01": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-600}",
-          "fontSize": "{wtw-font-size-14}",
-          "lineHeight": "{wtw-font-lineheight-18}",
-          "letterSpacing": "{wtw-font-letterspacing-loose}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-600}",
+          "fontSize": "{plx-font-size-14}",
+          "lineHeight": "{plx-font-lineheight-18}",
+          "letterSpacing": "{plx-font-letterspacing-loose}"
         },
         "type": "typography",
         "description": "This is for component and layout headings. It pairs with $body-compact-01."
       },
       "compact-02": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-600}",
-          "fontSize": "{wtw-font-size-16}",
-          "lineHeight": "{wtw-font-lineheight-22}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-600}",
+          "fontSize": "{plx-font-size-16}",
+          "lineHeight": "{plx-font-lineheight-22}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "This is for smaller layout headings. It pairs with $body-compact-02."
       },
       "01": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-600}",
-          "lineHeight": "{wtw-font-lineheight-20}",
-          "fontSize": "{wtw-font-size-14}",
-          "letterSpacing": "{wtw-font-letterspacing-loose}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-600}",
+          "lineHeight": "{plx-font-lineheight-20}",
+          "fontSize": "{plx-font-size-14}",
+          "letterSpacing": "{plx-font-letterspacing-loose}"
         },
         "type": "typography",
         "description": "This is for component and layout headings. It pairs with $body-01."
       },
       "02": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-600}",
-          "lineHeight": "{wtw-font-lineheight-24}",
-          "fontSize": "{wtw-font-size-16}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-600}",
+          "lineHeight": "{plx-font-lineheight-24}",
+          "fontSize": "{plx-font-size-16}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "This is for smaller layout headings. It pairs with $body-02."
       },
       "03": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-400}",
-          "lineHeight": "{wtw-font-lineheight-28}",
-          "fontSize": "{wtw-font-size-20}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "lineHeight": "{plx-font-lineheight-28}",
+          "fontSize": "{plx-font-size-20}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "This is for component and layout headings."
       },
       "04": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-400}",
-          "lineHeight": "{wtw-font-lineheight-36}",
-          "fontSize": "{wtw-font-size-28}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "lineHeight": "{plx-font-lineheight-36}",
+          "fontSize": "{plx-font-size-28}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "This is for layout headings."
       },
       "05": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-400}",
-          "lineHeight": "{wtw-font-lineheight-40}",
-          "fontSize": "{wtw-font-size-32}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "lineHeight": "{plx-font-lineheight-40}",
+          "fontSize": "{plx-font-size-32}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "This is for layout headings."
       },
       "06": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-300}",
-          "lineHeight": "{wtw-font-lineheight-50}",
-          "fontSize": "{wtw-font-size-42}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "lineHeight": "{plx-font-lineheight-50}",
+          "fontSize": "{plx-font-size-42}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "This is for layout headings."
       },
       "07": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-300}",
-          "lineHeight": "{wtw-font-lineheight-64}",
-          "fontSize": "{wtw-font-size-54}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "lineHeight": "{plx-font-lineheight-64}",
+          "fontSize": "{plx-font-size-54}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "This is for layout headings."
       }
     },
-    "wtw-font-fluid-sm": {
+    "plx-font-fluid-sm": {
       "heading-03": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-400}",
-          "fontSize": "{wtw-font-size-20}",
-          "lineHeight": "{wtw-font-lineheight-28}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-20}",
+          "lineHeight": "{plx-font-lineheight-28}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "This is for component and layout headings."
       },
       "heading-04": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-400}",
-          "fontSize": "{wtw-font-size-28}",
-          "lineHeight": "{wtw-font-lineheight-36}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-28}",
+          "lineHeight": "{plx-font-lineheight-36}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "This is for layout headings."
       },
       "heading-05": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-400}",
-          "fontSize": "{wtw-font-size-32}",
-          "lineHeight": "{wtw-font-lineheight-40}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-32}",
+          "lineHeight": "{plx-font-lineheight-40}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "This is for layout headings."
       },
       "heading-06": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-600}",
-          "fontSize": "{wtw-font-size-32}",
-          "lineHeight": "{wtw-font-lineheight-40}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-600}",
+          "fontSize": "{plx-font-size-32}",
+          "lineHeight": "{plx-font-lineheight-40}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "This is for layout headings."
       },
       "paragraph-01": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-300}",
-          "fontSize": "{wtw-font-size-24}",
-          "lineHeight": "{wtw-font-lineheight-30}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-24}",
+          "lineHeight": "{plx-font-lineheight-30}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "This is for larger paragraphs of type that are usually three or more lines in length."
       },
       "quotation-01": {
         "value": {
-          "fontFamily": "{wtw-font-family-serif}",
-          "fontWeight": "{wtw-font-weight-400}",
-          "fontSize": "{wtw-font-size-20}",
-          "lineHeight": "{wtw-font-lineheight-26}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-serif}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-20}",
+          "lineHeight": "{plx-font-lineheight-26}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "“Quote.”"
       },
       "quotation-02": {
         "value": {
-          "fontFamily": "{wtw-font-family-serif}",
-          "fontWeight": "{wtw-font-weight-300}",
-          "fontSize": "{wtw-font-size-32}",
-          "lineHeight": "{wtw-font-lineheight-40}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-serif}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-32}",
+          "lineHeight": "{plx-font-lineheight-40}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "“Quote.”"
       },
       "display-01": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-300}",
-          "fontSize": "{wtw-font-size-42}",
-          "lineHeight": "{wtw-font-lineheight-50}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-42}",
+          "lineHeight": "{plx-font-lineheight-50}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "Display"
       },
       "display-02": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-600}",
-          "fontSize": "{wtw-font-size-42}",
-          "lineHeight": "{wtw-font-lineheight-50}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-600}",
+          "fontSize": "{plx-font-size-42}",
+          "lineHeight": "{plx-font-lineheight-50}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "Display"
       },
       "display-03": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-300}",
-          "fontSize": "{wtw-font-size-42}",
-          "lineHeight": "{wtw-font-lineheight-50}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-42}",
+          "lineHeight": "{plx-font-lineheight-50}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "Display"
       },
       "display-04": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-300}",
-          "fontSize": "{wtw-font-size-42}",
-          "lineHeight": "{wtw-font-lineheight-50}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-42}",
+          "lineHeight": "{plx-font-lineheight-50}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "Display"
       }
     },
-    "wtw-font-fluid-md": {
+    "plx-font-fluid-md": {
       "heading-03": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-400}",
-          "fontSize": "{wtw-font-size-20}",
-          "lineHeight": "{wtw-font-lineheight-28}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-20}",
+          "lineHeight": "{plx-font-lineheight-28}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "This is for component and layout headings."
       },
       "heading-04": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-400}",
-          "fontSize": "{wtw-font-size-28}",
-          "lineHeight": "{wtw-font-lineheight-36}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-28}",
+          "lineHeight": "{plx-font-lineheight-36}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "This is for layout headings."
       },
       "heading-05": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-300}",
-          "fontSize": "{wtw-font-size-36}",
-          "lineHeight": "{wtw-font-lineheight-44}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-36}",
+          "lineHeight": "{plx-font-lineheight-44}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "This is for layout headings."
       },
       "heading-06": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-600}",
-          "fontSize": "{wtw-font-size-36}",
-          "lineHeight": "{wtw-font-lineheight-44}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-600}",
+          "fontSize": "{plx-font-size-36}",
+          "lineHeight": "{plx-font-lineheight-44}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "This is for layout headings."
       },
       "paragraph-01": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-300}",
-          "fontSize": "{wtw-font-size-24}",
-          "lineHeight": "{wtw-font-lineheight-30}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-24}",
+          "lineHeight": "{plx-font-lineheight-30}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "This is for larger paragraphs of type that are usually three or more lines in length."
       },
       "quotation-01": {
         "value": {
-          "fontFamily": "{wtw-font-family-serif}",
-          "fontWeight": "{wtw-font-weight-400}",
-          "fontSize": "{wtw-font-size-20}",
-          "lineHeight": "{wtw-font-lineheight-26}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-serif}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-20}",
+          "lineHeight": "{plx-font-lineheight-26}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "“Quote.”"
       },
       "quotation-02": {
         "value": {
-          "fontFamily": "{wtw-font-family-serif}",
-          "fontWeight": "{wtw-font-weight-300}",
-          "fontSize": "{wtw-font-size-36}",
-          "lineHeight": "{wtw-font-lineheight-44}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-serif}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-36}",
+          "lineHeight": "{plx-font-lineheight-44}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "“Quote.”"
       },
       "display-01": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-300}",
-          "fontSize": "{wtw-font-size-42}",
-          "lineHeight": "{wtw-font-lineheight-50}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-42}",
+          "lineHeight": "{plx-font-lineheight-50}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "Display"
       },
       "display-02": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-600}",
-          "fontSize": "{wtw-font-size-42}",
-          "lineHeight": "{wtw-font-lineheight-50}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-600}",
+          "fontSize": "{plx-font-size-42}",
+          "lineHeight": "{plx-font-lineheight-50}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "Display"
       },
       "display-03": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-300}",
-          "fontSize": "{wtw-font-size-54}",
-          "lineHeight": "{wtw-font-lineheight-64}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-54}",
+          "lineHeight": "{plx-font-lineheight-64}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "Display"
       },
       "display-04": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-300}",
-          "fontSize": "{wtw-font-size-68}",
-          "lineHeight": "{wtw-font-lineheight-78}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-68}",
+          "lineHeight": "{plx-font-lineheight-78}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "Display"
       }
     },
-    "wtw-font-fluid-lg": {
+    "plx-font-fluid-lg": {
       "heading-03": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-400}",
-          "fontSize": "{wtw-font-size-20}",
-          "lineHeight": "{wtw-font-lineheight-28}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-20}",
+          "lineHeight": "{plx-font-lineheight-28}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "This is for component and layout headings."
       },
       "heading-04": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-400}",
-          "fontSize": "{wtw-font-size-28}",
-          "lineHeight": "{wtw-font-lineheight-36}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-28}",
+          "lineHeight": "{plx-font-lineheight-36}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "This is for layout headings."
       },
       "heading-05": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-300}",
-          "fontSize": "{wtw-font-size-42}",
-          "lineHeight": "{wtw-font-lineheight-50}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-42}",
+          "lineHeight": "{plx-font-lineheight-50}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "This is for layout headings."
       },
       "heading-06": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-600}",
-          "fontSize": "{wtw-font-size-42}",
-          "lineHeight": "{wtw-font-lineheight-50}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-600}",
+          "fontSize": "{plx-font-size-42}",
+          "lineHeight": "{plx-font-lineheight-50}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "This is for layout headings."
       },
       "paragraph-01": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-300}",
-          "fontSize": "{wtw-font-size-28}",
-          "lineHeight": "{wtw-font-lineheight-36}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-28}",
+          "lineHeight": "{plx-font-lineheight-36}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "This is for larger paragraphs of type that are usually three or more lines in length."
       },
       "quotation-01": {
         "value": {
-          "fontFamily": "{wtw-font-family-serif}",
-          "fontWeight": "{wtw-font-weight-400}",
-          "fontSize": "{wtw-font-size-24}",
-          "lineHeight": "{wtw-font-lineheight-30}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-serif}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-24}",
+          "lineHeight": "{plx-font-lineheight-30}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "“Quote.”"
       },
       "quotation-02": {
         "value": {
-          "fontFamily": "{wtw-font-family-serif}",
-          "fontWeight": "{wtw-font-weight-300}",
-          "fontSize": "{wtw-font-size-42}",
-          "lineHeight": "{wtw-font-lineheight-50}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-serif}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-42}",
+          "lineHeight": "{plx-font-lineheight-50}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "“Quote.”"
       },
       "display-01": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-300}",
-          "fontSize": "{wtw-font-size-54}",
-          "lineHeight": "{wtw-font-lineheight-64}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-54}",
+          "lineHeight": "{plx-font-lineheight-64}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "Display"
       },
       "display-02": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-600}",
-          "fontSize": "{wtw-font-size-54}",
-          "lineHeight": "{wtw-font-lineheight-64}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-600}",
+          "fontSize": "{plx-font-size-54}",
+          "lineHeight": "{plx-font-lineheight-64}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "Display"
       },
       "display-03": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-300}",
-          "fontSize": "{wtw-font-size-60}",
-          "lineHeight": "{wtw-font-lineheight-70}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-60}",
+          "lineHeight": "{plx-font-lineheight-70}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "Display"
       },
       "display-04": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-300}",
-          "fontSize": "{wtw-font-size-92}",
-          "lineHeight": "{wtw-font-lineheight-102}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-92}",
+          "lineHeight": "{plx-font-lineheight-102}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "Display"
       }
     },
-    "wtw-font-fluid-xl": {
+    "plx-font-fluid-xl": {
       "heading-03": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-400}",
-          "fontSize": "{wtw-font-size-20}",
-          "lineHeight": "{wtw-font-lineheight-28}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-20}",
+          "lineHeight": "{plx-font-lineheight-28}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "This is for component and layout headings."
       },
       "heading-04": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-400}",
-          "fontSize": "{wtw-font-size-32}",
-          "lineHeight": "{wtw-font-lineheight-40}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-32}",
+          "lineHeight": "{plx-font-lineheight-40}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "This is for layout headings."
       },
       "heading-05": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-300}",
-          "fontSize": "{wtw-font-size-48}",
-          "lineHeight": "{wtw-font-lineheight-56}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-48}",
+          "lineHeight": "{plx-font-lineheight-56}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "This is for layout headings."
       },
       "heading-06": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-600}",
-          "fontSize": "{wtw-font-size-48}",
-          "lineHeight": "{wtw-font-lineheight-56}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-600}",
+          "fontSize": "{plx-font-size-48}",
+          "lineHeight": "{plx-font-lineheight-56}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "This is for layout headings."
       },
       "paragraph-01": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-300}",
-          "fontSize": "{wtw-font-size-28}",
-          "lineHeight": "{wtw-font-lineheight-36}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-28}",
+          "lineHeight": "{plx-font-lineheight-36}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "This is for larger paragraphs of type that are usually three or more lines in length."
       },
       "quotation-01": {
         "value": {
-          "fontFamily": "{wtw-font-family-serif}",
-          "fontWeight": "{wtw-font-weight-300}",
-          "fontSize": "{wtw-font-size-28}",
-          "lineHeight": "{wtw-font-lineheight-36}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-serif}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-28}",
+          "lineHeight": "{plx-font-lineheight-36}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "“Quote.”"
       },
       "quotation-02": {
         "value": {
-          "fontFamily": "{wtw-font-family-serif}",
-          "fontWeight": "{wtw-font-weight-300}",
-          "fontSize": "{wtw-font-size-48}",
-          "lineHeight": "{wtw-font-lineheight-56}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-serif}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-48}",
+          "lineHeight": "{plx-font-lineheight-56}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "“Quote.”"
       },
       "display-01": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-300}",
-          "fontSize": "{wtw-font-size-60}",
-          "lineHeight": "{wtw-font-lineheight-70}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-60}",
+          "lineHeight": "{plx-font-lineheight-70}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "Display"
       },
       "display-02": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-600}",
-          "fontSize": "{wtw-font-size-60}",
-          "lineHeight": "{wtw-font-lineheight-70}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-600}",
+          "fontSize": "{plx-font-size-60}",
+          "lineHeight": "{plx-font-lineheight-70}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "Display"
       },
       "display-03": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-300}",
-          "fontSize": "{wtw-font-size-76}",
-          "lineHeight": "{wtw-font-lineheight-86}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-76}",
+          "lineHeight": "{plx-font-lineheight-86}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "Display"
       },
       "display-04": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-300}",
-          "fontSize": "{wtw-font-size-122}",
-          "lineHeight": "{wtw-font-lineheight-130}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-122}",
+          "lineHeight": "{plx-font-lineheight-130}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "Display"
       }
     },
-    "wtw-font-fluid-max": {
+    "plx-font-fluid-max": {
       "heading-03": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-400}",
-          "fontSize": "{wtw-font-size-24}",
-          "lineHeight": "{wtw-font-lineheight-28}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-24}",
+          "lineHeight": "{plx-font-lineheight-28}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "This is for component and layout headings."
       },
       "heading-04": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-400}",
-          "fontSize": "{wtw-font-size-32}",
-          "lineHeight": "{wtw-font-lineheight-40}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-32}",
+          "lineHeight": "{plx-font-lineheight-40}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "This is for layout headings."
       },
       "heading-05": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-300}",
-          "fontSize": "{wtw-font-size-60}",
-          "lineHeight": "{wtw-font-lineheight-70}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-60}",
+          "lineHeight": "{plx-font-lineheight-70}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "This is for layout headings."
       },
       "heading-06": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-600}",
-          "fontSize": "{wtw-font-size-60}",
-          "lineHeight": "{wtw-font-lineheight-70}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-600}",
+          "fontSize": "{plx-font-size-60}",
+          "lineHeight": "{plx-font-lineheight-70}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "This is for layout headings."
       },
       "paragraph-01": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-300}",
-          "fontSize": "{wtw-font-size-32}",
-          "lineHeight": "{wtw-font-lineheight-40}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-32}",
+          "lineHeight": "{plx-font-lineheight-40}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "This is for larger paragraphs of type that are usually three or more lines in length."
       },
       "quotation-01": {
         "value": {
-          "fontFamily": "{wtw-font-family-serif}",
-          "fontWeight": "{wtw-font-weight-300}",
-          "fontSize": "{wtw-font-size-32}",
-          "lineHeight": "{wtw-font-lineheight-40}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-serif}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-32}",
+          "lineHeight": "{plx-font-lineheight-40}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "“Quote.”"
       },
       "quotation-02": {
         "value": {
-          "fontFamily": "{wtw-font-family-serif}",
-          "fontWeight": "{wtw-font-weight-300}",
-          "fontSize": "{wtw-font-size-60}",
-          "lineHeight": "{wtw-font-lineheight-70}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-serif}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-60}",
+          "lineHeight": "{plx-font-lineheight-70}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "“Quote.”"
       },
       "display-01": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-300}",
-          "fontSize": "{wtw-font-size-76}",
-          "lineHeight": "{wtw-font-lineheight-86}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-76}",
+          "lineHeight": "{plx-font-lineheight-86}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "Display"
       },
       "display-02": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-600}",
-          "fontSize": "{wtw-font-size-76}",
-          "lineHeight": "{wtw-font-lineheight-86}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-600}",
+          "fontSize": "{plx-font-size-76}",
+          "lineHeight": "{plx-font-lineheight-86}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "Display"
       },
       "display-03": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-300}",
-          "fontSize": "{wtw-font-size-84}",
-          "lineHeight": "{wtw-font-lineheight-94}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-84}",
+          "lineHeight": "{plx-font-lineheight-94}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
         },
         "type": "typography",
         "description": "Display"
       },
       "display-04": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-300}",
-          "fontSize": "{wtw-font-size-156}",
-          "lineHeight": "{wtw-font-lineheight-164}",
-          "letterSpacing": "{wtw-font-letterspacing-tighter}"
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-156}",
+          "lineHeight": "{plx-font-lineheight-164}",
+          "letterSpacing": "{plx-font-letterspacing-tighter}"
         },
         "type": "typography",
         "description": "Display"
       }
     },
-    "wtw-font-link": {
+    "plx-font-link": {
       "body-compact-01": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-400}",
-          "fontSize": "{wtw-font-size-14}",
-          "lineHeight": "{wtw-font-lineheight-18}",
-          "letterSpacing": "{wtw-font-letterspacing-loose}",
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-14}",
+          "lineHeight": "{plx-font-lineheight-18}",
+          "letterSpacing": "{plx-font-letterspacing-loose}",
           "textDecoration": "underline"
         },
         "type": "typography"
       },
       "body-compact-02": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-400}",
-          "fontSize": "{wtw-font-size-16}",
-          "lineHeight": "{wtw-font-lineheight-22}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}",
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-16}",
+          "lineHeight": "{plx-font-lineheight-22}",
+          "letterSpacing": "{plx-font-letterspacing-normal}",
           "textDecoration": "underline"
         },
         "type": "typography"
       },
       "helper-text-01": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-400}",
-          "fontSize": "{wtw-font-size-12}",
-          "lineHeight": "{wtw-font-lineheight-16}",
-          "letterSpacing": "{wtw-font-letterspacing-looser}",
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-12}",
+          "lineHeight": "{plx-font-lineheight-16}",
+          "letterSpacing": "{plx-font-letterspacing-looser}",
           "textDecoration": "underline"
         },
         "type": "typography"
       },
       "body-01": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-400}",
-          "fontSize": "{wtw-font-size-14}",
-          "lineHeight": "{wtw-font-lineheight-20}",
-          "letterSpacing": "{wtw-font-letterspacing-loose}",
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-14}",
+          "lineHeight": "{plx-font-lineheight-20}",
+          "letterSpacing": "{plx-font-letterspacing-loose}",
           "textDecoration": "underline"
         },
         "type": "typography"
       },
       "body-02": {
         "value": {
-          "fontFamily": "{wtw-font-family-sans}",
-          "fontWeight": "{wtw-font-weight-400}",
-          "fontSize": "{wtw-font-size-16}",
-          "lineHeight": "{wtw-font-lineheight-24}",
-          "letterSpacing": "{wtw-font-letterspacing-normal}",
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-16}",
+          "lineHeight": "{plx-font-lineheight-24}",
+          "letterSpacing": "{plx-font-letterspacing-normal}",
           "textDecoration": "underline"
         },
         "type": "typography"
@@ -1708,10 +1716,90 @@
         "wtw-color.default.red.900": "S:3291a6a1eb6cf5db9b9e551883564ad16432d9e1,",
         "wtw-color.default.gray.25": "S:9ec9bef2c92c66442d7f756d7b560ae9ed18fb16,",
         "test.test.test1": "S:f85f1c6f9b1de9c005220c78d0cd2e90fd4cb8a1,",
-        "test.1234.test1": "S:dc29dd6a9def5c0d217d342867aa9f601a9f192c,"
+        "test.1234.test1": "S:dc29dd6a9def5c0d217d342867aa9f601a9f192c,",
+        "plx-font-body.compact-01": "S:af82154ccc3a1624d5206a0572d73da157584a56,",
+        "plx-font-body.compact-02": "S:aefae4438af0d388759bba8bd677c6421ca98182,",
+        "plx-font-body.01": "S:b8907cdf8bc88c6be1f0ceabc1c8d6f592ac3805,",
+        "plx-font-utility.code-01": "S:9125be71b5cfb339e26c51f8e35f016a454c9a5e,",
+        "plx-font-utility.code-02": "S:3b1a613c274e700174a08321dcf0352b8658cdc7,",
+        "plx-font-utility.label-01": "S:924bf1cf518ac20bd4a5076935dee9ae4e0ee41f,",
+        "plx-font-utility.label-02": "S:9c79464a6585b93da6add568a02e18b11795b66d,",
+        "plx-font-utility.helper-text-01": "S:78272a510147bf9ca9d89eda9ec8dd2ead49c7ab,",
+        "plx-font-utility.helper-text-02": "S:d72153d15a552df6e1be0c5eea35483f26d52acf,",
+        "plx-font-utility.legal-01": "S:f26eddd4b7cafa32d53c60ec72a75b18576807a8,",
+        "plx-font-utility.legal-02": "S:6965cab7cbd53a27ac41fd315a35184ccfb404c3,",
+        "plx-font-heading.compact-01": "S:280f71537bfe884f13cbb700549c5b50bf4ec6eb,",
+        "plx-font-heading.compact-02": "S:c38d5333a9f0ab9322a033aab2b91a1b74917833,",
+        "plx-font-heading.01": "S:c631ea8661ee3a91a39c823986acc09238cb462a,",
+        "plx-font-heading.02": "S:7a09880be7f24163a1d82ee72dd4ded66594be17,",
+        "plx-font-heading.03": "S:c72e839fa2b951adf12112d1c6afb244f65a7c42,",
+        "plx-font-heading.04": "S:ee12057ae9da8df619b005e79df7cf819f40f58a,",
+        "plx-font-heading.05": "S:b7b74432c883206fb810ed509406c86aff57847b,",
+        "plx-font-heading.06": "S:739e2395ba1d7a11feba6d0be9d95df8910fec82,",
+        "plx-font-heading.07": "S:d1fb3cf28ad5474df845ec4e7e80a8e61ecbc656,",
+        "plx-font-fluid-sm.heading-03": "S:bd845af741e4765ffd3b893858147e83d0f956a1,",
+        "plx-font-fluid-sm.heading-04": "S:5139bb47d08d5cd6a538d3cb563bf4c73a8f0aee,",
+        "plx-font-fluid-sm.heading-05": "S:541374e53b8c1e63470f0448f754366a58d26ef2,",
+        "plx-font-fluid-sm.heading-06": "S:1c8bf2f56944b55bf608852cda5efacf256d8c67,",
+        "plx-font-fluid-sm.paragraph-01": "S:4234a39fb4a445f62714d1e508fd2d605d6b6d5b,",
+        "plx-font-fluid-sm.quotation-01": "S:beb5b369200102efb0c1ea89ee8ba606187d9b99,",
+        "plx-font-fluid-sm.quotation-02": "S:fad830c1db3a80850f5491419fb7a825b4eef63a,",
+        "plx-font-fluid-sm.display-01": "S:181b3518a49d3537136535401ad72614fbaed72c,",
+        "plx-font-fluid-sm.display-02": "S:6bf4d42f10a95dea5a0a5ef3b23e568c17016b31,",
+        "plx-font-fluid-sm.display-03": "S:1cf73afe609d0f2475390cbd92cea8704a9be7d4,",
+        "plx-font-fluid-sm.display-04": "S:fff2887fa24aaadcdde6a3e4330a1b96192e7817,",
+        "plx-font-fluid-md.heading-03": "S:6fe54fc19b5d5e570acdb8e09d7e141455f36ed0,",
+        "plx-font-fluid-md.heading-04": "S:aa2f504ffcb6a419b55f1e122193388a1a2e0e62,",
+        "plx-font-fluid-md.heading-05": "S:883fe011ebb15b959d0cf7acdccc2aec8945d0f9,",
+        "plx-font-fluid-md.heading-06": "S:13af5deced942709c9b8fec38aa00b48309e33b0,",
+        "plx-font-fluid-md.paragraph-01": "S:6d29e092e8882f51cc620df65a9edbc12d588f39,",
+        "plx-font-fluid-md.quotation-01": "S:c57801cd43d7d0e009e4aa6a1195128450554d59,",
+        "plx-font-fluid-md.quotation-02": "S:7091e664d0676433c218808fc9e46fdddeff5261,",
+        "plx-font-fluid-md.display-01": "S:271af9378502f2ed261bc8a1cacef5bc5925e885,",
+        "plx-font-fluid-md.display-02": "S:3b833953bea82956654db4df72a61902d40f31b3,",
+        "plx-font-fluid-md.display-03": "S:9a950931e0da1503eb4387d1155a5afd4018b4cb,",
+        "plx-font-fluid-md.display-04": "S:22ed23714de5ab4eddcdc60fd8917cd157a7f3b4,",
+        "plx-font-fluid-lg.heading-03": "S:ac3b396127120bf6765fb2cb9a36756900ca0694,",
+        "plx-font-fluid-lg.heading-04": "S:99723cf11d5653469bb09fb138e67b3944764b40,",
+        "plx-font-fluid-lg.heading-05": "S:5d5294984fceaa09ac3e47091a5bdfb286c74708,",
+        "plx-font-fluid-lg.heading-06": "S:86d613d9e95581322ba766d8a18df22d93afd624,",
+        "plx-font-fluid-lg.paragraph-01": "S:58398819e7879b9585ec921c7b79515e90a992d6,",
+        "plx-font-fluid-lg.quotation-01": "S:fdb29cb75f8bd819d40ca47930fc64e26673593f,",
+        "plx-font-fluid-lg.quotation-02": "S:bb2eb72749c906097bcdda4ea97a825cd67beea3,",
+        "plx-font-fluid-lg.display-01": "S:fb1aef1d268021e4888e78964ecc8993882e9ecc,",
+        "plx-font-fluid-lg.display-02": "S:649b78cde5ba338e095bd81250fd54a0c7763e8c,",
+        "plx-font-fluid-lg.display-03": "S:35c30e26e5a26bfcd68bbc119df688f6d2bab97d,",
+        "plx-font-fluid-lg.display-04": "S:68bb4e3749909be5765d3a86da6bb593eebd7abe,",
+        "plx-font-fluid-xl.heading-03": "S:f630c2b316a24d81dad35966a922be890ebc9c27,",
+        "plx-font-fluid-xl.heading-04": "S:e28ae6d9110572e69b6d23a6003124e9cfb006d4,",
+        "plx-font-fluid-xl.heading-05": "S:503b0f9da658f23c985db90cea3024a94755525f,",
+        "plx-font-fluid-xl.heading-06": "S:003b16db0071f71ee675c9278cae96fadfcba56a,",
+        "plx-font-fluid-xl.paragraph-01": "S:1c15801e1ce0a8c5ce6c374af0df4c18920a6397,",
+        "plx-font-fluid-xl.quotation-01": "S:9324531a5cc432df9eee02ff0989d444d69f80c3,",
+        "plx-font-fluid-xl.quotation-02": "S:609c48c18a6b39e0ab0c0215097550e1beb30e45,",
+        "plx-font-fluid-xl.display-01": "S:95a4ebfb9211fd380ab783b1621db78ed529c14d,",
+        "plx-font-fluid-xl.display-02": "S:1b38227d69858484f5fdad029f8d7858ea9b0cc4,",
+        "plx-font-fluid-xl.display-03": "S:ca08b5034994da5ac773649949593d0ab005c15d,",
+        "plx-font-fluid-xl.display-04": "S:5b8fa8f0a53ae1aee9beeb5a97a82057df1a48be,",
+        "plx-font-fluid-max.heading-03": "S:79a1e3ef8fb1ac016c37a31dce7efacca78985a2,",
+        "plx-font-fluid-max.heading-04": "S:cc6e9db3286f796ec9fd8100be548dc461cd5cd2,",
+        "plx-font-fluid-max.heading-05": "S:a49eece2037e2ff6600f632dcdaf914dc572674d,",
+        "plx-font-fluid-max.heading-06": "S:5690202d707fdf2051a943ae3c10788a92f9a0fa,",
+        "plx-font-fluid-max.paragraph-01": "S:012d2ca8a130f5bcb6870f2e7c9fca2c431f8ca1,",
+        "plx-font-fluid-max.quotation-01": "S:588a0d9ebd517a11060f5a5d5c0a037e7314b3c2,",
+        "plx-font-fluid-max.quotation-02": "S:33483e5c06487b72104b87bc3ba3b99c29010dbe,",
+        "plx-font-fluid-max.display-01": "S:4c02ae5c8c6ca6ba4585b7346ce5da1e6787f7f8,",
+        "plx-font-fluid-max.display-02": "S:19dee657bcdfcb9a6923d67f598ac5d3b4144bdc,",
+        "plx-font-fluid-max.display-03": "S:cf224015d456d442fc359aa3450e5a343f296c48,",
+        "plx-font-fluid-max.display-04": "S:03b32589f30ef0124449c1911b58860359b82cda,",
+        "plx-font-link.body-compact-01": "S:c28b0ea72d5c1ac4c2b219bcf93523706facc0f8,",
+        "plx-font-link.body-compact-02": "S:81663c71e95778dafee12105cec52dffc26e156e,",
+        "plx-font-link.helper-text-01": "S:4b15e0a9c4f514a98860c537b88c48b6102bbb64,",
+        "plx-font-link.body-01": "S:dcda1f1feb221b5dc14d78936592a36f2ec83f64,",
+        "plx-font-link.body-02": "S:6ef20ef1bdf13aba71ccd7ca92879ed4c694080d,"
       },
       "selectedTokenSets": {
-        "wtw": "enabled"
+        "Plexus": "enabled"
       },
       "$figmaCollectionId": "VariableCollectionId:528:1941",
       "$figmaModeId": "528:3",
@@ -1815,7 +1903,7 @@
   ],
   "$metadata": {
     "tokenSetOrder": [
-      "wtw"
+      "Plexus"
     ]
   }
 }
