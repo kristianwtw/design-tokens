@@ -1,5 +1,5 @@
 {
-  "Plexus": {
+  "core": {
     "plx-color": {
       "customer": {
         "skyss-red": {
@@ -636,7 +636,8 @@
           "fontSize": "{plx-font-size-14}",
           "letterSpacing": "{plx-font-letterspacing-loose}"
         },
-        "type": "typography"
+        "type": "typography",
+        "description": "This is for short paragraphs with no more than four lines and is commonly used in components."
       },
       "compact-02": {
         "value": {
@@ -646,7 +647,8 @@
           "fontSize": "{plx-font-size-16}",
           "letterSpacing": "{plx-font-letterspacing-normal}"
         },
-        "type": "typography"
+        "type": "typography",
+        "description": "This is for short paragraphs with no more than four lines. Use in expressive components, such as button and link."
       },
       "01": {
         "value": {
@@ -656,7 +658,8 @@
           "fontSize": "{plx-font-size-14}",
           "letterSpacing": "{plx-font-letterspacing-loose}"
         },
-        "type": "typography"
+        "type": "typography",
+        "description": "With a slightly taller line height than body-compact-01, this body style is used in productive layouts for long paragraphs with more than four lines. Use also for longer body copy in components such as accordion or structured list. It is always left-aligned. Body-long-01 can also be used for productive moments within expressive experiences."
       },
       "02": {
         "value": {
@@ -666,7 +669,919 @@
           "fontSize": "{plx-font-size-16}",
           "letterSpacing": "{plx-font-letterspacing-normal}"
         },
+        "type": "typography",
+        "description": "With a slightly taller line height than body-compact-02, this style is commonly used in expressive layouts for long paragraphs with four lines or more. It is always left-aligned."
+      }
+    },
+    "plx-font-utility": {
+      "code-01": {
+        "value": {
+          "fontFamily": "{plx-font-family-code}",
+          "fontWeight": "{plx-font-weight-400}",
+          "lineHeight": "{plx-font-lineheight-16}",
+          "fontSize": "{plx-font-size-12}",
+          "letterSpacing": "{plx-font-letterspacing-looser}"
+        },
+        "type": "typography",
+        "description": "This is for inline code snippets and smaller code elements."
+      },
+      "code-02": {
+        "value": {
+          "fontFamily": "{plx-font-family-code}",
+          "fontWeight": "{plx-font-weight-400}",
+          "lineHeight": "{plx-font-lineheight-20}",
+          "fontSize": "{plx-font-size-14}",
+          "letterSpacing": "{plx-font-letterspacing-looser}"
+        },
+        "type": "typography",
+        "description": "This is for large code snippets and larger code elements."
+      },
+      "label-01": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-12}",
+          "lineHeight": "{plx-font-lineheight-16}",
+          "letterSpacing": "{plx-font-letterspacing-looser}"
+        },
+        "type": "typography",
+        "description": "This is a multipurpose type style that can be used for field labels in components, error messages, and captions. It should not be used for body copy."
+      },
+      "label-02": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-14}",
+          "lineHeight": "{plx-font-lineheight-18}",
+          "letterSpacing": "{plx-font-letterspacing-loose}"
+        },
+        "type": "typography",
+        "description": "This is a multipurpose type style that can be used for field labels in components, error messages, and captions. It should not be used for body copy."
+      },
+      "helper-text-01": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-12}",
+          "lineHeight": "{plx-font-lineheight-16}",
+          "letterSpacing": "{plx-font-letterspacing-looser}"
+        },
+        "type": "typography",
+        "description": "This is for explanatory helper text that appears below a field title within a component."
+      },
+      "helper-text-02": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-14}",
+          "lineHeight": "{plx-font-lineheight-18}",
+          "letterSpacing": "{plx-font-letterspacing-loose}"
+        },
+        "type": "typography",
+        "description": "This is for explanatory helper text that appears below a field title within a component."
+      },
+      "legal-01": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-12}",
+          "lineHeight": "{plx-font-lineheight-16}",
+          "letterSpacing": "{plx-font-letterspacing-looser}"
+        },
+        "type": "typography",
+        "description": "This is for legal copy appearing in product pages."
+      },
+      "legal-02": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-14}",
+          "lineHeight": "{plx-font-lineheight-18}",
+          "letterSpacing": "{plx-font-letterspacing-loose}"
+        },
+        "type": "typography",
+        "description": "This is for legal copy appearing in web pages."
+      }
+    },
+    "plx-font-heading": {
+      "compact-01": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-600}",
+          "fontSize": "{plx-font-size-14}",
+          "lineHeight": "{plx-font-lineheight-18}",
+          "letterSpacing": "{plx-font-letterspacing-loose}"
+        },
+        "type": "typography",
+        "description": "This is for component and layout headings. It pairs with $body-compact-01."
+      },
+      "compact-02": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-600}",
+          "fontSize": "{plx-font-size-16}",
+          "lineHeight": "{plx-font-lineheight-22}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for smaller layout headings. It pairs with $body-compact-02."
+      },
+      "01": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-600}",
+          "lineHeight": "{plx-font-lineheight-20}",
+          "fontSize": "{plx-font-size-14}",
+          "letterSpacing": "{plx-font-letterspacing-loose}"
+        },
+        "type": "typography",
+        "description": "This is for component and layout headings. It pairs with $body-01."
+      },
+      "02": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-600}",
+          "lineHeight": "{plx-font-lineheight-24}",
+          "fontSize": "{plx-font-size-16}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for smaller layout headings. It pairs with $body-02."
+      },
+      "03": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "lineHeight": "{plx-font-lineheight-28}",
+          "fontSize": "{plx-font-size-20}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for component and layout headings."
+      },
+      "04": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "lineHeight": "{plx-font-lineheight-36}",
+          "fontSize": "{plx-font-size-28}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "05": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "lineHeight": "{plx-font-lineheight-40}",
+          "fontSize": "{plx-font-size-32}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "06": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "lineHeight": "{plx-font-lineheight-50}",
+          "fontSize": "{plx-font-size-42}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "07": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "lineHeight": "{plx-font-lineheight-64}",
+          "fontSize": "{plx-font-size-54}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      }
+    },
+    "plx-font-fluid-sm": {
+      "heading-03": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-20}",
+          "lineHeight": "{plx-font-lineheight-28}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for component and layout headings."
+      },
+      "heading-04": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-28}",
+          "lineHeight": "{plx-font-lineheight-36}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "heading-05": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-32}",
+          "lineHeight": "{plx-font-lineheight-40}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "heading-06": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-600}",
+          "fontSize": "{plx-font-size-32}",
+          "lineHeight": "{plx-font-lineheight-40}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "paragraph-01": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-24}",
+          "lineHeight": "{plx-font-lineheight-30}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for larger paragraphs of type that are usually three or more lines in length."
+      },
+      "quotation-01": {
+        "value": {
+          "fontFamily": "{plx-font-family-serif}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-20}",
+          "lineHeight": "{plx-font-lineheight-26}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "“Quote.”"
+      },
+      "quotation-02": {
+        "value": {
+          "fontFamily": "{plx-font-family-serif}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-32}",
+          "lineHeight": "{plx-font-lineheight-40}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "“Quote.”"
+      },
+      "display-01": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-42}",
+          "lineHeight": "{plx-font-lineheight-50}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      },
+      "display-02": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-600}",
+          "fontSize": "{plx-font-size-42}",
+          "lineHeight": "{plx-font-lineheight-50}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      },
+      "display-03": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-42}",
+          "lineHeight": "{plx-font-lineheight-50}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      },
+      "display-04": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-42}",
+          "lineHeight": "{plx-font-lineheight-50}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      }
+    },
+    "plx-font-fluid-md": {
+      "heading-03": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-20}",
+          "lineHeight": "{plx-font-lineheight-28}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for component and layout headings."
+      },
+      "heading-04": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-28}",
+          "lineHeight": "{plx-font-lineheight-36}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "heading-05": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-36}",
+          "lineHeight": "{plx-font-lineheight-44}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "heading-06": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-600}",
+          "fontSize": "{plx-font-size-36}",
+          "lineHeight": "{plx-font-lineheight-44}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "paragraph-01": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-24}",
+          "lineHeight": "{plx-font-lineheight-30}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for larger paragraphs of type that are usually three or more lines in length."
+      },
+      "quotation-01": {
+        "value": {
+          "fontFamily": "{plx-font-family-serif}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-20}",
+          "lineHeight": "{plx-font-lineheight-26}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "“Quote.”"
+      },
+      "quotation-02": {
+        "value": {
+          "fontFamily": "{plx-font-family-serif}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-36}",
+          "lineHeight": "{plx-font-lineheight-44}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "“Quote.”"
+      },
+      "display-01": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-42}",
+          "lineHeight": "{plx-font-lineheight-50}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      },
+      "display-02": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-600}",
+          "fontSize": "{plx-font-size-42}",
+          "lineHeight": "{plx-font-lineheight-50}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      },
+      "display-03": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-54}",
+          "lineHeight": "{plx-font-lineheight-64}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      },
+      "display-04": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-68}",
+          "lineHeight": "{plx-font-lineheight-78}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      }
+    },
+    "plx-font-fluid-lg": {
+      "heading-03": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-20}",
+          "lineHeight": "{plx-font-lineheight-28}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for component and layout headings."
+      },
+      "heading-04": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-28}",
+          "lineHeight": "{plx-font-lineheight-36}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "heading-05": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-42}",
+          "lineHeight": "{plx-font-lineheight-50}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "heading-06": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-600}",
+          "fontSize": "{plx-font-size-42}",
+          "lineHeight": "{plx-font-lineheight-50}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "paragraph-01": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-28}",
+          "lineHeight": "{plx-font-lineheight-36}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for larger paragraphs of type that are usually three or more lines in length."
+      },
+      "quotation-01": {
+        "value": {
+          "fontFamily": "{plx-font-family-serif}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-24}",
+          "lineHeight": "{plx-font-lineheight-30}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "“Quote.”"
+      },
+      "quotation-02": {
+        "value": {
+          "fontFamily": "{plx-font-family-serif}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-42}",
+          "lineHeight": "{plx-font-lineheight-50}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "“Quote.”"
+      },
+      "display-01": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-54}",
+          "lineHeight": "{plx-font-lineheight-64}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      },
+      "display-02": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-600}",
+          "fontSize": "{plx-font-size-54}",
+          "lineHeight": "{plx-font-lineheight-64}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      },
+      "display-03": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-60}",
+          "lineHeight": "{plx-font-lineheight-70}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      },
+      "display-04": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-92}",
+          "lineHeight": "{plx-font-lineheight-102}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      }
+    },
+    "plx-font-fluid-xl": {
+      "heading-03": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-20}",
+          "lineHeight": "{plx-font-lineheight-28}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for component and layout headings."
+      },
+      "heading-04": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-32}",
+          "lineHeight": "{plx-font-lineheight-40}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "heading-05": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-48}",
+          "lineHeight": "{plx-font-lineheight-56}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "heading-06": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-600}",
+          "fontSize": "{plx-font-size-48}",
+          "lineHeight": "{plx-font-lineheight-56}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "paragraph-01": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-28}",
+          "lineHeight": "{plx-font-lineheight-36}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for larger paragraphs of type that are usually three or more lines in length."
+      },
+      "quotation-01": {
+        "value": {
+          "fontFamily": "{plx-font-family-serif}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-28}",
+          "lineHeight": "{plx-font-lineheight-36}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "“Quote.”"
+      },
+      "quotation-02": {
+        "value": {
+          "fontFamily": "{plx-font-family-serif}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-48}",
+          "lineHeight": "{plx-font-lineheight-56}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "“Quote.”"
+      },
+      "display-01": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-60}",
+          "lineHeight": "{plx-font-lineheight-70}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      },
+      "display-02": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-600}",
+          "fontSize": "{plx-font-size-60}",
+          "lineHeight": "{plx-font-lineheight-70}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      },
+      "display-03": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-76}",
+          "lineHeight": "{plx-font-lineheight-86}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      },
+      "display-04": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-122}",
+          "lineHeight": "{plx-font-lineheight-130}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      }
+    },
+    "plx-font-fluid-max": {
+      "heading-03": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-24}",
+          "lineHeight": "{plx-font-lineheight-28}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for component and layout headings."
+      },
+      "heading-04": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-32}",
+          "lineHeight": "{plx-font-lineheight-40}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "heading-05": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-60}",
+          "lineHeight": "{plx-font-lineheight-70}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "heading-06": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-600}",
+          "fontSize": "{plx-font-size-60}",
+          "lineHeight": "{plx-font-lineheight-70}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for layout headings."
+      },
+      "paragraph-01": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-32}",
+          "lineHeight": "{plx-font-lineheight-40}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for larger paragraphs of type that are usually three or more lines in length."
+      },
+      "quotation-01": {
+        "value": {
+          "fontFamily": "{plx-font-family-serif}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-32}",
+          "lineHeight": "{plx-font-lineheight-40}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "“Quote.”"
+      },
+      "quotation-02": {
+        "value": {
+          "fontFamily": "{plx-font-family-serif}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-60}",
+          "lineHeight": "{plx-font-lineheight-70}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "“Quote.”"
+      },
+      "display-01": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-76}",
+          "lineHeight": "{plx-font-lineheight-86}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      },
+      "display-02": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-600}",
+          "fontSize": "{plx-font-size-76}",
+          "lineHeight": "{plx-font-lineheight-86}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      },
+      "display-03": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-84}",
+          "lineHeight": "{plx-font-lineheight-94}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "Display"
+      },
+      "display-04": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-300}",
+          "fontSize": "{plx-font-size-156}",
+          "lineHeight": "{plx-font-lineheight-164}",
+          "letterSpacing": "{plx-font-letterspacing-tighter}"
+        },
+        "type": "typography",
+        "description": "Display"
+      }
+    },
+    "plx-font-link": {
+      "body-compact-01": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-14}",
+          "lineHeight": "{plx-font-lineheight-18}",
+          "letterSpacing": "{plx-font-letterspacing-loose}",
+          "textDecoration": "underline"
+        },
         "type": "typography"
+      },
+      "body-compact-02": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-16}",
+          "lineHeight": "{plx-font-lineheight-22}",
+          "letterSpacing": "{plx-font-letterspacing-normal}",
+          "textDecoration": "underline"
+        },
+        "type": "typography"
+      },
+      "helper-text-01": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-12}",
+          "lineHeight": "{plx-font-lineheight-16}",
+          "letterSpacing": "{plx-font-letterspacing-looser}",
+          "textDecoration": "underline"
+        },
+        "type": "typography"
+      },
+      "body-01": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-14}",
+          "lineHeight": "{plx-font-lineheight-20}",
+          "letterSpacing": "{plx-font-letterspacing-loose}",
+          "textDecoration": "underline"
+        },
+        "type": "typography"
+      },
+      "body-02": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "fontSize": "{plx-font-size-16}",
+          "lineHeight": "{plx-font-lineheight-24}",
+          "letterSpacing": "{plx-font-letterspacing-normal}",
+          "textDecoration": "underline"
+        },
+        "type": "typography"
+      }
+    }
+  },
+  "semantic": {
+    "plx-font-body": {
+      "compact-01": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "lineHeight": "{plx-font-lineheight-18}",
+          "fontSize": "{plx-font-size-14}",
+          "letterSpacing": "{plx-font-letterspacing-loose}"
+        },
+        "type": "typography",
+        "description": "This is for short paragraphs with no more than four lines and is commonly used in components."
+      },
+      "compact-02": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "lineHeight": "{plx-font-lineheight-22}",
+          "fontSize": "{plx-font-size-16}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "This is for short paragraphs with no more than four lines. Use in expressive components, such as button and link."
+      },
+      "01": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "lineHeight": "{plx-font-lineheight-20}",
+          "fontSize": "{plx-font-size-14}",
+          "letterSpacing": "{plx-font-letterspacing-loose}"
+        },
+        "type": "typography",
+        "description": "With a slightly taller line height than body-compact-01, this body style is used in productive layouts for long paragraphs with more than four lines. Use also for longer body copy in components such as accordion or structured list. It is always left-aligned. Body-long-01 can also be used for productive moments within expressive experiences."
+      },
+      "02": {
+        "value": {
+          "fontFamily": "{plx-font-family-sans}",
+          "fontWeight": "{plx-font-weight-400}",
+          "lineHeight": "{plx-font-lineheight-24}",
+          "fontSize": "{plx-font-size-16}",
+          "letterSpacing": "{plx-font-letterspacing-normal}"
+        },
+        "type": "typography",
+        "description": "With a slightly taller line height than body-compact-02, this style is commonly used in expressive layouts for long paragraphs with four lines or more. It is always left-aligned."
       }
     },
     "plx-font-utility": {
@@ -1536,7 +2451,7 @@
   "$themes": [
     {
       "id": "c1aaa1ac873318cd6fd6cd6f31bc6efde2228ff7",
-      "name": "Core",
+      "name": "default",
       "$figmaStyleReferences": {
         "wtw-font-body.compact-01": "S:be093a00629f475c885954631fe7d5c0f006ab8a,",
         "wtw-font-body.compact-02": "S:f130c6c87900c62e143fb5b050d2f219317679b5,",
@@ -1799,7 +2714,8 @@
         "plx-font-link.body-02": "S:6ef20ef1bdf13aba71ccd7ca92879ed4c694080d,"
       },
       "selectedTokenSets": {
-        "Plexus": "enabled"
+        "core": "source",
+        "semantic": "disabled"
       },
       "$figmaCollectionId": "VariableCollectionId:528:1941",
       "$figmaModeId": "528:3",
@@ -1903,7 +2819,8 @@
   ],
   "$metadata": {
     "tokenSetOrder": [
-      "Plexus"
+      "core",
+      "semantic"
     ]
   }
 }
