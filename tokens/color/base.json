@@ -2714,8 +2714,7 @@
         "plx-font-link.body-02": "S:6ef20ef1bdf13aba71ccd7ca92879ed4c694080d,"
       },
       "selectedTokenSets": {
-        "core": "source",
-        "semantic": "disabled"
+        "core": "source"
       },
       "$figmaCollectionId": "VariableCollectionId:528:1941",
       "$figmaModeId": "528:3",
